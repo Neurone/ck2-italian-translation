@@ -1,0 +1,16 @@
+{
+    "name": "ck2-italian-translation",
+    "version": "0.1.0",
+    "description": "",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "MIT",
+    "devDependencies": {
+        "grunt": "^1.0.4",
+        "grunt-contrib-clean": "^2.0.0",
+        "grunt-contrib-compress": "^1.4.3",
+        "grunt-contrib-copy": "^1.0.0"
+    }
+}
