@@ -6,7 +6,7 @@ La traduzione ha come base la versione **3.1.0 (KKAD)**
 
 ## Installazione mod da release
 
-Trovate le release già pronte del mod nell'apposita sezione [releases](https://github.com/Neurone/ck2-traduzione-italiana/releases). Scaricate la release che vi interessa e unzippatela all'interno della cartella:
+Trovate le release già pronte del mod nell'apposita sezione [releases](https://github.com/Neurone/ck2-italian-translation/releases). Scaricate la release che vi interessa e unzippatela all'interno della cartella:
 
     <%USERPROFILE%>\Documents\Paradox Interactive\Crusader Kings II\mod
 
@@ -20,7 +20,7 @@ Clonare il repository:
 
 Installare le dipendenze:
 
-    cd ck2-traduzione-italiana
+    cd ck2-italian-translation
     npm install
 
 Creare il mod:
@@ -29,10 +29,10 @@ Creare il mod:
 
 L'output sarà il seguente:
 
-    ~\ck2-traduzione-italiana> npx grunt
+    ~\ck2-italian-translation> npx grunt
     npx: installed 1 in 3.945s
     Path must be a string. Received undefined
-    ~\ck2-traduzione-italiana\node_modules\grunt\bin\grunt
+    ~\ck2-italian-translation\node_modules\grunt\bin\grunt
     Running "clean:folder" (clean) task
     >> 0 paths cleaned.
 
