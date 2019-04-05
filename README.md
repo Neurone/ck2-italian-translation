@@ -1,8 +1,8 @@
 # Traduzione italiana di Crusader Kings II
 
-Questa traduzione è ricavata dai testi redatti diligentemente dal team [Battle of Paradox Italia](http://www.bopitalia.org). **Grande lavoro!**
+Questo mod abilita la selezione della lingua italiana tra le lingue disponibili all'interno del gioco.
 
-La traduzione ha come base la versione **3.1.0 (KKAD)**
+Questa traduzione è ricavata dai testi redatti diligentemente dal team [Battle of Paradox Italia](http://www.bopitalia.org) - **Grande lavoro!** - ed ha come base la versione **3.1.0 (KKAD)** del gioco originale.
 
 ## Installazione mod da release
 
