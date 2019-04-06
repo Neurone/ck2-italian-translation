@@ -1,6 +1,6 @@
 # Traduzione italiana di Crusader Kings II
 
-Questo mod, **compatibile** con l'**Ironmode** e gli **achievement di Steam**, abilita la selezione della lingua italiana tra le lingue disponibili all'interno del gioco.
+Questo mod, **compatibile** con l'**Ironmode** e gli **achievement di Steam**, aggiunge la possibilità di selezionare la lingua italiana tra le lingue disponibili all'interno del gioco.
 
 Questa traduzione è ricavata dai testi redatti diligentemente dal team [Battle of Paradox Italia](http://www.bopitalia.org) - **Grande lavoro!** - ed ha come base la versione **3.1.0 (KKAD)** del gioco originale.
 
