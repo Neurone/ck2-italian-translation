@@ -1,0 +1,1105 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;ITALIAN;;;;;;;;x
+### PRONOMI
+String_IT_GetLuiLei_male;;;;;;lui;;;;;;;;x
+String_IT_GetLuiLei_female;;;;;;lei;;;;;;;;x
+String_IT_GetLuiLeiCap_male;;;;;;Lui;;;;;;;;x
+String_IT_GetLuiLeiCap_female;;;;;;Lei;;;;;;;;x
+String_IT_GetLuiLeiOpp_male;;;;;;lei;;;;;;;;x
+String_IT_GetLuiLeiOpp_female;;;;;;lui;;;;;;;;x
+String_IT_GetLuiLeiCapOpp_male;;;;;;Lei;;;;;;;;x
+String_IT_GetLuiLeiCapOpp_female;;;;;;Lui;;;;;;;;x
+String_IT_GetEgliElla_male;;;;;;egli;;;;;;;;x
+String_IT_GetEgliElla_female;;;;;;ella;;;;;;;;x
+String_IT_GetEgliEllaCap_male;;;;;;Egli;;;;;;;;x
+String_IT_GetEgliEllaCap_female;;;;;;Ella;;;;;;;;x
+String_IT_GetEgliEllaOpp_male;;;;;;ella;;;;;;;;x
+String_IT_GetEgliEllaOpp_female;;;;;;egli;;;;;;;;x
+String_IT_GetEgliEllaCapOpp_male;;;;;;Ella;;;;;;;;x
+String_IT_GetEgliEllaCapOpp_female;;;;;;Egli;;;;;;;;x
+String_IT_GetEssoEssa_male;;;;;;esso;;;;;;;;x
+String_IT_GetEssoEssa_female;;;;;;essa;;;;;;;;x
+String_IT_GetEssoEssaCap_male;;;;;;Esso;;;;;;;;x
+String_IT_GetEssoEssaCap_female;;;;;;Essa;;;;;;;;x
+String_IT_GetEssoEssaOpp_male;;;;;;essa;;;;;;;;x
+String_IT_GetEssoEssaOpp_female;;;;;;esso;;;;;;;;x
+String_IT_GetEssoEssaCapOpp_male;;;;;;Essa;;;;;;;;x
+String_IT_GetEssoEssaCapOpp_female;;;;;;Esso;;;;;;;;x
+String_IT_GetEssoEssa_male;;;;;;essi;;;;;;;;x
+String_IT_GetEssoEssa_female;;;;;;esse;;;;;;;;x
+String_IT_GetEssoEssaCap_male;;;;;;Essi;;;;;;;;x
+String_IT_GetEssoEssaCap_female;;;;;;Esse;;;;;;;;x
+String_IT_GetEssoEssaOpp_male;;;;;;esse;;;;;;;;x
+String_IT_GetEssoEssaOpp_female;;;;;;essi;;;;;;;;x
+String_IT_GetEssoEssaCapOpp_male;;;;;;Esse;;;;;;;;x
+String_IT_GetEssoEssaCapOpp_female;;;;;;Essi;;;;;;;;x
+### PRONOMI POSSESSIVI
+String_IT_GetSuoSua_male;;;;;;suo;;;;;;;;x
+String_IT_GetSuoSua_female;;;;;;sua;;;;;;;;x
+String_IT_GetSuoSuaOpp_male;;;;;;sua;;;;;;;;x
+String_IT_GetSuoSuaOpp_female;;;;;;suo;;;;;;;;x
+String_IT_GetSuoSuaCap_male;;;;;;Suo;;;;;;;;x
+String_IT_GetSuoSuaCap_female;;;;;;Sua;;;;;;;;x
+String_IT_GetSuoSuaCapOpp_male;;;;;;Sua;;;;;;;;x
+String_IT_GetSuoSuaCapOpp_female;;;;;;Suo;;;;;;;;x
+String_IT_GetSuoiSue_male;;;;;;suoi;;;;;;;;x
+String_IT_GetSuoiSue_female;;;;;;sue;;;;;;;;x
+String_IT_GetSuoiSueOpp_male;;;;;;sue;;;;;;;;x
+String_IT_GetSuoiSueOpp_female;;;;;;suo;;;;;;;;x
+String_IT_GetSuoiSueCap_male;;;;;;Suoi;;;;;;;;x
+String_IT_GetSuoiSueCap_female;;;;;;Sue;;;;;;;;x
+String_IT_GetSuoiSueCapOpp_male;;;;;;Sue;;;;;;;;x
+String_IT_GetSuoiSueCapOpp_female;;;;;;Suoi;;;;;;;;x
+### ARTICOLI DETERMINATIVI
+String_IT_GetIlLa_male;;;;;;il;;;;;;;;x
+String_IT_GetIlLa_female;;;;;;la;;;;;;;;x
+String_IT_GetIlLaCap_male;;;;;;Il;;;;;;;;x
+String_IT_GetIlLaCap_female;;;;;;La;;;;;;;;x
+String_IT_GetIlLaOpp_male;;;;;;la;;;;;;;;x
+String_IT_GetIlLaOpp_female;;;;;;il;;;;;;;;x
+String_IT_GetIlLaCapOpp_male;;;;;;La;;;;;;;;x
+String_IT_GetIlLaCapOpp_female;;;;;;Il;;;;;;;;x
+String_IT_GetGliLe_male;;;;;;gli;;;;;;;;x
+String_IT_GetGliLe_female;;;;;;le;;;;;;;;x
+String_IT_GetGliLeCap_male;;;;;;Gli;;;;;;;;x
+String_IT_GetGliLeCap_female;;;;;;Le;;;;;;;;x
+String_IT_GetGliLeOpp_male;;;;;;le;;;;;;;;x
+String_IT_GetGliLeOpp_female;;;;;;gli;;;;;;;;x
+String_IT_GetGliLeCapOpp_male;;;;;;Le;;;;;;;;x
+String_IT_GetGliLeCapOpp_female;;;;;;Gli;;;;;;;;x
+String_IT_GetILe_male;;;;;;i;;;;;;;;x
+String_IT_GetILe_female;;;;;;le;;;;;;;;x
+String_IT_GetILeCap_male;;;;;;I;;;;;;;;x
+String_IT_GetILeCap_female;;;;;;Le;;;;;;;;x
+String_IT_GetILeOpp_male;;;;;;le;;;;;;;;x
+String_IT_GetILeOpp_female;;;;;;i;;;;;;;;x
+String_IT_GetILeCapOpp_male;;;;;;Le;;;;;;;;x
+String_IT_GetILeCapOpp_female;;;;;;I;;;;;;;;x
+String_IT_GetLoLa_male;;;;;;lo;;;;;;;;x
+String_IT_GetLoLa_female;;;;;;la;;;;;;;;x
+String_IT_GetLoLaCap_male;;;;;;Lo;;;;;;;;x
+String_IT_GetLoLaCap_female;;;;;;La;;;;;;;;x
+String_IT_GetLoLaOpp_male;;;;;;la;;;;;;;;x
+String_IT_GetLoLaOpp_female;;;;;;lo;;;;;;;;x
+String_IT_GetLoLaOppCap_male;;;;;;La;;;;;;
+String_IT_GetLoLaOppCap_female;;;;;;Lo;;;;;;;;x
+### ARTICOLI INDETERMINATIVI
+String_IT_GetUnUna_male;;;;;;un;;;;;;;;x
+String_IT_GetUnUna_female;;;;;;una;;;;;;;;x
+String_IT_GetUnUnaOpp_male;;;;;;una;;;;;;;;x
+String_IT_GetUnUnaOpp_female;;;;;;un;;;;;;;;x
+String_IT_GetUnUnaCap_male;;;;;;Un;;;;;;;;x
+String_IT_GetUnUnaCap_female;;;;;;Una;;;;;;;;x
+String_IT_GetUnUnaOppCap_male;;;;;;Una;;;;;;;;x
+String_IT_GetUnUnaOppCap_female;;;;;;Un;;;;;;;;x
+String_IT_GetUniUne_male;;;;;;uni;;;;;;;;x
+String_IT_GetUniUne_female;;;;;;une;;;;;;;;x
+String_IT_GetUniUneOpp_male;;;;;;une;;;;;;;;x
+String_IT_GetUniUneOpp_female;;;;;;uni;;;;;;;;x
+String_IT_GetUniUneCap_male;;;;;;Uni;;;;;;;;x
+String_IT_GetUniUneCap_female;;;;;;Une;;;;;;;;x
+String_IT_GetUniUneOppCap_male;;;;;;Une;;;;;;;;x
+String_IT_GetUniUneOppCap_female;;;;;;Uni;;;;;;;;x
+### ARTICOLI PARTITIVI
+String_IT_GetDelDella_male;;;;;;del;;;;;;;;x
+String_IT_GetDelDella_female;;;;;;della;;;;;;;;x
+String_IT_GetDelloDella_male;;;;;;dello;;;;;;;;x
+String_IT_GetDelloDella_female;;;;;;della;;;;;;;;x
+String_IT_GetDeiDelle_male;;;;;;dei;;;;;;;;x
+String_IT_GetDeiDelle_female;;;;;;delle;;;;;;;;x
+String_IT_GetDegliDelle_male;;;;;;degli;;;;;;;;x
+String_IT_GetDegliDelle_female;;;;;;delle;;;;;;;;x
+### PREPOSIZIONI
+String_IT_GetAlAlla_male;;;;;;al;;;;;;;;x
+String_IT_GetAlAlla_female;;;;;;alla;;;;;;;;x
+String_IT_GetAlAllaCap_male;;;;;;Al;;;;;;;;x
+String_IT_GetAlAllaCap_female;;;;;;alla;;;;;;;;x
+String_IT_GetAiAlle_male;;;;;;ai;;;;;;;;x
+String_IT_GetAiAlle_female;;;;;;alle;;;;;;;;x
+String_IT_GetAiAlleCap_male;;;;;;Ai;;;;;;;;x
+String_IT_GetAiAlleCap_female;;;;;;Alle;;;;;;;;x
+String_IT_GetAgliAlle_male;;;;;;agli;;;;;;;;x
+String_IT_GetAgliiAlle_female;;;;;;alle;;;;;;;;x
+String_IT_GetAgliiAlleCap_male;;;;;;Agli;;;;;;;;x
+String_IT_GetAgliiAlleCap_female;;;;;;Alle;;;;;;;;x
+String_IT_GetDalDalla_male;;;;;;dal;;;;;;;;x
+String_IT_GetDalDalla_female;;;;;;dalla;;;;;;;;x
+String_IT_GetDalloDalla_male;;;;;;dallo;;;;;;;;x
+String_IT_GetDalloDalla_female;;;;;;dalla;;;;;;;;x
+String_IT_GetDaiDalle_male;;;;;;dai;;;;;;;;x
+String_IT_GetDaiDalle_female;;;;;;dalle;;;;;;;;x
+String_IT_GetDagliDalle_male;;;;;;dagli;;;;;;;;x
+String_IT_GetDagliDalle_female;;;;;;dalle;;;;;;;;x
+String_IT_GetNelNella_male;;;;;;nel;;;;;;;;x
+String_IT_GetNelNella_female;;;;;;nella;;;;;;;;x
+String_IT_GetNelNellaCap_male;;;;;;Nel;;;;;;;;x
+String_IT_GetNelNellaCap_female;;;;;;Nella;;;;;;;;x
+String_IT_GetNeiNelle_male;;;;;;nei;;;;;;;;x
+String_IT_GetNeiNelle_female;;;;;;nelle;;;;;;;;x
+String_IT_GetNeiNelleCap_male;;;;;;Nei;;;;;;;;x
+String_IT_GetNeiNelleCap_female;;;;;;Nelle;;;;;;;;x
+String_IT_GetSulSulla_male;;;;;;sul;;;;;;;;x
+String_IT_GetSulSulla_female;;;;;;sulla;;;;;;;;x
+String_IT_GetSulSullaCap_male;;;;;;Sul;;;;;;;;x
+String_IT_GetSulSullaCap_female;;;;;;Sulla;;;;;;;;x
+String_IT_GetSuiSulle_male;;;;;;sui;;;;;;;;x
+String_IT_GetSuiSulle_female;;;;;;sulle;;;;;;;;x
+String_IT_GetSuiSulleCap_male;;;;;;Sui;;;;;;;;x
+String_IT_GetSuiSulleCap_female;;;;;;Sulle;;;;;;;;x
+### SUFFISSI
+String_IT_GetOA_male;;;;;;o;;;;;;;;x
+String_IT_GetOA_female;;;;;;a;;;;;;;;x
+String_IT_GetOAOpp_male;;;;;;a;;;;;;;;x
+String_IT_GetOAOpp_female;;;;;;o;;;;;;;;x
+String_IT_GetAE_male;;;;;;a;;;;;;;;x
+String_IT_GetAE_female;;;;;;e;;;;;;;;x
+String_IT_GetAEOpp_male;;;;;;e;;;;;;;;x
+String_IT_GetAEOpp_female;;;;;;a;;;;;;;;x
+String_IT_GetIE_male;;;;;;i;;;;;;;;x
+String_IT_GetIE_female;;;;;;e;;;;;;;;x
+String_IT_GetIEOpp_male;;;;;;e;;;;;;;;x
+String_IT_GetIEOpp_female;;;;;;i;;;;;;;;x
+String_IT_GetOI_male;;;;;;o;;;;;;;;x
+String_IT_GetOI_female;;;;;;i;;;;;;;;x
+String_IT_GetOIOpp_male;;;;;;i;;;;;;;;x
+String_IT_GetOIOpp_female;;;;;;o;;;;;;;;x
+String_IT_GetE_male;;;;;;e;;;;;;;;x
+String_IT_GetI_male;;;;;;i;;;;;;;;x
+### ALTRE PAROLE
+String_IT_GetPadrinoMadrina_male;;;;;;padrino;;;;;;;;x
+String_It_GetPadrinoMadrina_female;;;;;;madrina;;;;;;;;x
+String_IT_GetSignoreSignoraCap_male;;;;;;Signore;;;;;;;;x
+String_IT_GetSignoreSignoraCap_female;;;;;;Signora;;;;;;;;x
+### PAROLA DAVANTI AL COMANDO (SENZA SPAZI TRA COMANDI)
+String_IT_al_;;;;;;al;;;;;;;;x
+String_IT_alla_;;;;;;alla;;;;;;;;x
+String_IT_agli_;;;;;;agli;;;;;;;;x
+String_IT_alle;;;;;;alle;;;;;;;;x
+String_IT_All_;;;;;;all';;;;;;;;x
+String_IT_il_;;;;;;il;;;;;;;;x
+String_IT_Il_;;;;;;Il;;;;;;;;x
+String_IT_la_;;;;;;la;;;;;;;;x
+String_IT_La_;;;;;;La;;;;;;;;x
+String_IT_le_;;;;;;le;;;;;;;;x
+String_IT_l_;;;;;;l';;;;;;;;x
+String_IT_L_;;;;;;L';;;;;;;;x
+String_IT_del_;;;;;;del;;;;;;;;x
+String_IT_della_;;;;;;della;;;;;;;;x
+String_IT_dei_;;;;;;dei;;;;;;;;x
+String_IT_degli_;;;;;;degli;;;;;;;;x
+String_IT_delle;;;;;;delle;;;;;;;;x
+String_IT_dell_;;;;;;dell';;;;;;;;x
+String_IT_Dell_;;;;;;Dell';;;;;;;;x
+tring_IT_gli_;;;;;;gli;;;;;;;;x
+tring_IT_Gli_;;;;;;Gli;;;;;;;;x
+String_IT_un_;;;;;;un';;;;;;;;x
+String_IT_Un_;;;;;;Un';;;;;;;;x
+### GetHoldingAlAlla & GetCapitalHoldingDelDela
+String_IT_GetHoldingAlAla_Castle_1;;;;;;al castello;;;;;;;;x
+String_IT_GetHoldingAlAla_Castle_2;;;;;;al castello;;;;;;;;x
+String_IT_GetHoldingAlAla_Castle_3;;;;;;al palazzo;;;;;;;;x
+String_IT_GetHoldingAlAla_City_1;;;;;;alla città;;;;;;;;x
+String_IT_GetHoldingAlAla_City_2;;;;;;alla città;;;;;;;;x
+String_IT_GetHoldingAlAla_City_3;;;;;;alla metropoli;;;;;;;;x
+String_IT_GetHoldingAlAla_Fallback_1;;;;;;alla capitale;;;;;;;;x
+String_IT_GetHoldingAlAla_Nomad_1;;;;;;al campo;;;;;;;;x
+String_IT_GetHoldingAlAla_Nomad_2;;;;;;all'accampamento;;;;;;;;x
+String_IT_GetHoldingAlAla_Nomad_3;;;;;;al palazzo;;;;;;;;x
+String_IT_GetHoldingAlAla_settlement;;;;;;all'insediamento;;;;;;;;x
+String_IT_GetHoldingAlAla_Temple_1;;;;;;al tempio;;;;;;;;x
+String_IT_GetHoldingAlAla_Tribal_1;;;;;;al borgo;;;;;;;;x
+String_IT_GetHoldingAlAla_Tribal_2;;;;;;al villaggio;;;;;;;;x
+String_IT_GetHoldingAlAla_Tribal_3;;;;;;alla fortezza;;;;;;;;x
+String_IT_GetHoldingDelDella_Castle_1;;;;;;del castello;;;;;;;;x
+String_IT_GetHoldingDelDella_Castle_2;;;;;;del castello;;;;;;;;x
+String_IT_GetHoldingDelDella_Castle_3;;;;;;del palazzo;;;;;;;;x
+String_IT_GetHoldingDelDella_City_1;;;;;;della città;;;;;;;;x
+String_IT_GetHoldingDelDella_City_2;;;;;;della città;;;;;;;;x
+String_IT_GetHoldingDelDella_City_3;;;;;;della metropoli;;;;;;;;x
+String_IT_GetHoldingDelDella_Fallback_1;;;;;;della capitale;;;;;;;;x
+String_IT_GetHoldingDelDella_Nomad_1;;;;;;del campo;;;;;;;;x
+String_IT_GetHoldingDelDella_Nomad_2;;;;;;dell'accampamento;;;;;;;;x
+String_IT_GetHoldingDelDella_Nomad_3;;;;;;del palazzo;;;;;;;;x
+String_IT_GetHoldingDelDella_settlement;;;;;;dell'insediamento;;;;;;;;x
+String_IT_GetHoldingDelDella_Temple_1;;;;;;del tempio;;;;;;;;x
+String_IT_GetHoldingDelDella_Tribal_1;;;;;;del borgo;;;;;;;;x
+String_IT_GetHoldingDelDella_Tribal_2;;;;;;del villaggio;;;;;;;;x
+String_IT_GetHoldingDelDella_Tribal_3;;;;;;della fortezza;;;;;;;;x
+### GetHouseOfWorshipDelDella & UnUna
+String_IT_GetHouseOfWorshipDelDella_Christian;;;;;;della chiesa;;;;;;;;x
+String_IT_GetHouseOfWorshipDelDella_Muslim;;;;;;della moschea;;;;;;;;x
+String_IT_GetHouseOfWorshipDelDella_Pagan;;;;;;del tempio;;;;;;;;x
+String_IT_GetHouseOfWorshipDelDella_Zoroastrian;;;;;;del tempio;;;;;;;;x
+String_IT_GetHouseOfWorshipDelDella_Jewish;;;;;;della sinagoga;;;;;;;;x
+String_IT_GetHouseOfWorshipDelDella_Hindu;;;;;;del tempio;;;;;;;;x
+String_IT_GetHouseOfWorshipDelDella_Buddhist;;;;;;del tempio;;;;;;;;x
+String_IT_GetHouseOfWorshipDelDella_Jain;;;;;;del tempio;;;;;;;;x
+String_IT_GetHouseOfWorshipDelDella_Taoist;;;;;;del tempio;;;;;;;;x
+String_IT_GetHouseOfWorshipUnUna_Christian;;;;;;una chiesa;;;;;;;;x
+String_IT_GetHouseOfWorshipUnUna_Muslim;;;;;;una moschea;;;;;;;;x
+String_IT_GetHouseOfWorshipUnUna_Pagan;;;;;;un tempio;;;;;;;;x
+String_IT_GetHouseOfWorshipUnUna_Zoroastrian;;;;;;un tempio;;;;;;;;x
+String_IT_GetHouseOfWorshipUnUna_Jewish;;;;;;una sinagoga;;;;;;;;x
+String_IT_GetHouseOfWorshipUnUna_Hindu;;;;;;un tempio;;;;;;;;x
+String_IT_GetHouseOfWorshipUnUna_Buddhist;;;;;;un tempio;;;;;;;;x
+String_IT_GetHouseOfWorshipUnUna_Jain;;;;;;un tempio;;;;;;;;x
+String_IT_GetHouseOfWorshipUnUna_Taoist;;;;;;un tempio;;;;;;;;x
+### GetDWSettlementAlAlla
+String_IT_town_AlAlla;;;;;;al villaggio;;;;;;;;x
+String_IT_camp_AlAlla;;;;;;al campo;;;;;;;;x
+### GetComplimentAdjectiveMaschileFemminile
+String_IT_GetComplimentAdjectiveMaschileFemminile_COMPL_CLEVER_Maschile;;;;;;l'inteligente;;;;;;;;x
+String_IT_GetComplimentAdjectiveMaschileFemminile_COMPL_CLEVER_Femminile;;;;;;la inteligente;;;;;;;;x
+String_IT_GetComplimentAdjectiveMaschileFemminile_COMPL_LEARNED_Femminile;;;;;;la saggia;;;;;;;;x
+String_IT_GetComplimentAdjectiveMaschileFemminile_COMPL_LEARNED_Maschile;;;;;;il saggio;;;;;;;;x
+String_IT_GetComplimentAdjectiveMaschileFemminile_COMPL_ELOQUENT_Femminile;;;;;;la eloquente;;;;;;;;x
+String_IT_GetComplimentAdjectiveMaschileFemminile_COMPL_ELOQUENT_Maschile;;;;;;l'eloquente;;;;;;;;x
+String_IT_GetComplimentAdjectiveMaschileFemminile_COMPL_THRIFTY_Maschile;;;;;;il parsimonioso;;;;;;;;x
+String_IT_GetComplimentAdjectiveMaschileFemminile_COMPL_THRIFTY_Femminile;;;;;;la parsimoniosa;;;;;;;;x
+### GetJobTitle2
+String_IT_GetJobTitle2_job_chancellor;;;;;;Cancelliere;;;;;;;;x
+String_IT_GetJobTitle2_job_chancellor_arabic;;;;;;Gran Visir;;;;;;;;x
+String_IT_GetJobTitle2_job_chancellor_aztec;;;;;;Cihuacoatl;;;;;;;;x
+String_IT_GetJobTitle2_job_chancellor_greek;;;;;;Magistros;;;;;;;;x
+String_IT_GetJobTitle2_job_chancellor_iranian;;;;;;Gran Visir;;;;;;;;x
+String_IT_GetJobTitle2_job_chancellor_turkish;;;;;;Gran Visir;;;;;;;;x
+String_IT_GetJobTitle2_job_chancellor_west_african;;;;;;Gran Visir;;;;;;;;x
+String_IT_GetJobTitle2_job_chancellor_zoroastrian_group;;;;;;Astabadh;;;;;;;;x
+String_IT_GetJobTitle2_job_marshal;;;;;;Maresciallo;;;;;;;;x
+String_IT_GetJobTitle2_job_marshal_aztec;;;;;;Tlacateccatl;;;;;;;;x
+String_IT_GetJobTitle2_job_marshal_greek;;;;;;Protostrator;;;;;;;;x
+String_IT_GetJobTitle2_job_marshal_zoroastrian_group;;;;;;Eran Spahbod;;;;;;;;x
+String_IT_GetJobTitle2_job_spiritual;;;;;;Capellano;;;;;;;;x
+String_IT_GetJobTitle2_job_spiritual_aztec;;;;;;Sahagún;;;;;;;;x
+String_IT_GetJobTitle2_job_spiritual_baltic_pagan;;;;;;Indovino;;;;;;;;x
+String_IT_GetJobTitle2_job_spiritual_baltic_pagan_reformed;;;;;;Indovino;;;;;;;;x
+String_IT_GetJobTitle2_job_spiritual_christian;;;;;;Capellano;;;;;;;;x
+String_IT_GetJobTitle2_job_spiritual_finnish_pagan;;;;;;Indovino;;;;;;;;x
+String_IT_GetJobTitle2_job_spiritual_finnish_pagan_reformed;;;;;;Indovino;;;;;;;;x
+String_IT_GetJobTitle2_job_spiritual_hellenic_pagan;;;;;;Indovino;;;;;;;;x
+String_IT_GetJobTitle2_job_spiritual_indian_group;;;;;;Upadhyaya;;;;;;;;x
+String_IT_GetJobTitle2_job_spiritual_jewish_group;;;;;;Rabbino di Corte;;;;;;;;x
+String_IT_GetJobTitle2_job_spiritual_muslim;;;;;;Imam;;;;;;;;x
+String_IT_GetJobTitle2_job_spiritual_norse_pagan_female;;;;;;Profeta;;;;;;;;x
+String_IT_GetJobTitle2_job_spiritual_norse_pagan_male;;;;;;Profeta;;;;;;;;x
+String_IT_GetJobTitle2_job_spiritual_norse_pagan_reformed_female;;;;;;Profeta;;;;;;;;x
+String_IT_GetJobTitle2_job_spiritual_norse_pagan_reformed_male;;;;;;Profeta;;;;;;;;x
+String_IT_GetJobTitle2_job_spiritual_orthodox;;;;;;Ecclesiarca;;;;;;;;x
+String_IT_GetJobTitle2_job_spiritual_pagan;;;;;;Indovino;;;;;;;;x
+String_IT_GetJobTitle2_job_spiritual_pagan_group;;;;;;Capo Indovino;;;;;;;;x
+String_IT_GetJobTitle2_job_spiritual_shiita;;;;;;Mula di corte;;;;;;;;x
+String_IT_GetJobTitle2_job_spiritual_slavic_pagan;;;;;;Indovino;;;;;;;;x
+String_IT_GetJobTitle2_job_spiritual_slavic_pagan_reformed;;;;;;Indovino;;;;;;;;x
+String_IT_GetJobTitle2_job_spiritual_tengri_pagan;;;;;;Indovino;;;;;;;;x
+String_IT_GetJobTitle2_job_spiritual_tengri_pagan_reformed;;;;;;Indovino;;;;;;;;x
+String_IT_GetJobTitle2_job_spiritual_zoroastrian;;;;;;Mobad;;;;;;;;x
+String_IT_GetJobTitle2_job_spiritual_zoroastrian_group;;;;;;Mobad;;;;;;;;x
+String_IT_GetJobTitle2_job_spiritual_zun_pagan;;;;;;Indovino;;;;;;;;x
+String_IT_GetJobTitle2_job_spiritual_zun_pagan_reformed;;;;;;Indovino;;;;;;;;x
+String_IT_GetJobTitle2_job_spyMaschileter;;;;;;Capo delle Spie;;;;;;;;x
+String_IT_GetJobTitle2_job_spyMaschileter_aztec;;;;;;Tillancalqui;;;;;;;;x
+String_IT_GetJobTitle2_job_spyMaschileter_greek;;;;;;Mystikos;;;;;;;;x
+String_IT_GetJobTitle2_job_treasurer;;;;;;Intendente;;;;;;;;x
+String_IT_GetJobTitle2_job_treasurer_aztec;;;;;;Petlacalcatl;;;;;;;;x
+String_IT_GetJobTitle2_job_treasurer_greek;;;;;;Sakellarios;;;;;;;;x
+String_IT_GetJobTitle2_job_treasurer_zoroastrian_group;;;;;;Darik-pat;;;;;;;;x
+### STRINGHE VARIE
+### Stringhe Culture
+String_IT_Culture_afghan_Femminile;;;;;;afgana;;;;;;;;x
+String_IT_Culture_afghan_Maschile;;;;;;afgano;;;;;;;;x
+String_IT_Culture_afghan_PlFemminile;;;;;;afgane;;;;;;;;x
+String_IT_Culture_afghan_PlMaschile;;;;;;afgani;;;;;;;;x
+String_IT_Culture_alan_Femminile;;;;;;alana;;;;;;;;x
+String_IT_Culture_alan_Maschile;;;;;;alano;;;;;;;;x
+String_IT_Culture_alan_PlFemminile;;;;;;alane;;;;;;;;x
+String_IT_Culture_alan_PlMaschile;;;;;;alani;;;;;;;;x
+String_IT_Culture_andalusian_arabic_Femminile;;;;;;andalusa;;;;;;;;x
+String_IT_Culture_andalusian_arabic_Maschile;;;;;;andaluso;;;;;;;;x
+String_IT_Culture_andalusian_arabic_PlFemminile;;;;;;andaluse;;;;;;;;x
+String_IT_Culture_andalusian_arabic_PlMaschile;;;;;;andalusi;;;;;;;;x
+String_IT_Culture_armenian_Femminile;;;;;;armena;;;;;;;;x
+String_IT_Culture_armenian_Maschile;;;;;;armeno;;;;;;;;x
+String_IT_Culture_armenian_PlFemminile;;;;;;armene;;;;;;;;x
+String_IT_Culture_armenian_PlMaschile;;;;;;armeni;;;;;;;;x
+String_IT_Culture_ashkenazi_Femminile;;;;;;askenazite;;;;;;;;x
+String_IT_Culture_ashkenazi_Maschile;;;;;;askenazita;;;;;;;;x
+String_IT_Culture_ashkenazi_PlFemminile;;;;;;askenazite;;;;;;;;x
+String_IT_Culture_ashkenazi_PlMaschile;;;;;;askenaziti;;;;;;;;x
+String_IT_Culture_assamese_Femminile;;;;;;assamesa;;;;;;;;x
+String_IT_Culture_assamese_Maschile;;;;;;assamese;;;;;;;;x
+String_IT_Culture_assamese_PlFemminile;;;;;;assamesi;;;;;;;;x
+String_IT_Culture_assamese_PlMaschile;;;;;;assamesi;;;;;;;;x
+String_IT_Culture_assyrian_Femminile;;;;;;asira;;;;;;;;x
+String_IT_Culture_assyrian_Maschile;;;;;;asiro;;;;;;;;x
+String_IT_Culture_assyrian_PlFemminile;;;;;;asire;;;;;;;;x
+String_IT_Culture_assyrian_PlMaschile;;;;;;asiri;;;;;;;;x
+String_IT_Culture_avar_Femminile;;;;;;avara;;;;;;;;x
+String_IT_Culture_avar_Maschile;;;;;;avaro;;;;;;;;x
+String_IT_Culture_avar_PlFemminile;;;;;;avare;;;;;;;;x
+String_IT_Culture_avar_PlMaschile;;;;;;avari;;;;;;;;x
+String_IT_Culture_baloch_Femminile;;;;;;beluca;;;;;;;;x
+String_IT_Culture_baloch_Maschile;;;;;;beluca;;;;;;;;x
+String_IT_Culture_baloch_PlFemminile;;;;;;beluche;;;;;;;;x
+String_IT_Culture_baloch_PlMaschile;;;;;;beluchi;;;;;;;;x
+String_IT_Culture_basque_Femminile;;;;;;basca;;;;;;;;x
+String_IT_Culture_basque_Maschile;;;;;;basco;;;;;;;;x
+String_IT_Culture_basque_PlFemminile;;;;;;basche;;;;;;;;x
+String_IT_Culture_basque_PlMaschile;;;;;;baschi;;;;;;;;x
+String_IT_Culture_bear_Femminile;;;;;;osuna;;;;;;;;x
+String_IT_Culture_bear_Maschile;;;;;;osuno;;;;;;;;x
+String_IT_Culture_bear_PlFemminile;;;;;;osune;;;;;;;;x
+String_IT_Culture_bear_PlMaschile;;;;;;osuni;;;;;;;;x
+String_IT_Culture_bedouin_arabic_Femminile;;;;;;beduina;;;;;;;;x
+String_IT_Culture_bedouin_arabic_Maschile;;;;;;beduino;;;;;;;;x
+String_IT_Culture_bedouin_arabic_PlFemminile;;;;;;beduine;;;;;;;;x
+String_IT_Culture_bedouin_arabic_PlMaschile;;;;;;beduini;;;;;;;;x
+String_IT_Culture_bengali_Femminile;;;;;;bengalese;;;;;;;;x
+String_IT_Culture_bengali_Maschile;;;;;;bengalese;;;;;;;;x
+String_IT_Culture_bengali_PlFemminile;;;;;;bengalesi;;;;;;;;x
+String_IT_Culture_bengali_PlMaschile;;;;;;bengalesi;;;;;;;;x
+String_IT_Culture_bodpa_Femminile;;;;;;bodpa;;;;;;;;x
+String_IT_Culture_bodpa_Maschile;;;;;;bodpa;;;;;;;;x
+String_IT_Culture_bodpa_PlFemminile;;;;;;bodpa;;;;;;;;x
+String_IT_Culture_bodpa_PlMaschile;;;;;;bodpa;;;;;;;;x
+String_IT_Culture_bohemian_Femminile;;;;;;boemiana;;;;;;;;x
+String_IT_Culture_bohemian_Maschile;;;;;;boemiano;;;;;;;;x
+String_IT_Culture_bohemian_PlFemminile;;;;;;boemiane;;;;;;;;x
+String_IT_Culture_bohemian_PlMaschile;;;;;;boemiani;;;;;;;;x
+String_IT_Culture_bolghar_Femminile;;;;;;bulgara;;;;;;;;x
+String_IT_Culture_bolghar_Maschile;;;;;;bulgaro;;;;;;;;x
+String_IT_Culture_bolghar_PlFemminile;;;;;;bulgare;;;;;;;;x
+String_IT_Culture_bolghar_PlMaschile;;;;;;bulgari;;;;;;;;x
+String_IT_Culture_breton_Femminile;;;;;;bretone;;;;;;;;x
+String_IT_Culture_breton_Maschile;;;;;;bretone;;;;;;;;x
+String_IT_Culture_breton_PlFemminile;;;;;;bretoni;;;;;;;;x
+String_IT_Culture_breton_PlMaschile;;;;;;bretoni;;;;;;;;x
+String_IT_Culture_bulgarian_Femminile;;;;;;bulgara;;;;;;;;x
+String_IT_Culture_bulgarian_Maschile;;;;;;bulgaro;;;;;;;;x
+String_IT_Culture_bulgarian_PlFemminile;;;;;;bulgare;;;;;;;;x
+String_IT_Culture_bulgarian_PlMaschile;;;;;;bulgari;;;;;;;;x
+String_IT_Culture_castillan_Femminile;;;;;;castiliana;;;;;;;;x
+String_IT_Culture_castillan_Maschile;;;;;;castiliano;;;;;;;;x
+String_IT_Culture_castillan_PlFemminile;;;;;;castiliane;;;;;;;;x
+String_IT_Culture_castillan_PlMaschile;;;;;;castiliani;;;;;;;;x
+String_IT_Culture_cat_Femminile;;;;;;felina;;;;;;;;x
+String_IT_Culture_cat_Maschile;;;;;;felino;;;;;;;;x
+String_IT_Culture_cat_PlFemminile;;;;;;feline;;;;;;;;x
+String_IT_Culture_cat_PlMaschile;;;;;;felini;;;;;;;;x
+String_IT_Culture_catalan_Femminile;;;;;;catalana;;;;;;;;x
+String_IT_Culture_catalan_Maschile;;;;;;catalano;;;;;;;;x
+String_IT_Culture_catalan_PlFemminile;;;;;;catalane;;;;;;;;x
+String_IT_Culture_catalan_PlMaschile;;;;;;catalani;;;;;;;;x
+String_IT_Culture_croatian_Femminile;;;;;;croata;;;;;;;;x
+String_IT_Culture_croatian_Maschile;;;;;;croato;;;;;;;;x
+String_IT_Culture_croatian_PlFemminile;;;;;;croate;;;;;;;;x
+String_IT_Culture_croatian_PlMaschile;;;;;;croati;;;;;;;;x
+String_IT_Culture_cuman_Femminile;;;;;;cumana;;;;;;;;x
+String_IT_Culture_cuman_Maschile;;;;;;cumano;;;;;;;;x
+String_IT_Culture_cuman_PlFemminile;;;;;;cumane;;;;;;;;x
+String_IT_Culture_cuman_PlMaschile;;;;;;cumani;;;;;;;;x
+String_IT_Culture_danish_Femminile;;;;;;danese;;;;;;;;x
+String_IT_Culture_danish_Maschile;;;;;;danese;;;;;;;;x
+String_IT_Culture_danish_PlFemminile;;;;;;danesi;;;;;;;;x
+String_IT_Culture_danish_PlMaschile;;;;;;danesi;;;;;;;;x
+String_IT_Culture_dutch_Femminile;;;;;;olandese;;;;;;;;x
+String_IT_Culture_dutch_Maschile;;;;;;olandese;;;;;;;;x
+String_IT_Culture_dutch_PlFemminile;;;;;;olandesi;;;;;;;;x
+String_IT_Culture_dutch_PlMaschile;;;;;;olandesi;;;;;;;;x
+String_IT_Culture_egyptian_arabic_Femminile;;;;;;egiziana;;;;;;;;x
+String_IT_Culture_egyptian_arabic_Maschile;;;;;;egiziano;;;;;;;;x
+String_IT_Culture_egyptian_arabic_PlFemminile;;;;;;egiziane;;;;;;;;x
+String_IT_Culture_egyptian_arabic_PlMaschile;;;;;;egiziani;;;;;;;;x
+String_IT_Culture_english_Femminile;;;;;;inglese;;;;;;;;x
+String_IT_Culture_english_Maschile;;;;;;inglese;;;;;;;;x
+String_IT_Culture_english_PlFemminile;;;;;;inglesi;;;;;;;;x
+String_IT_Culture_english_PlMaschile;;;;;;inglesi;;;;;;;;x
+String_IT_Culture_ethiopian_Femminile;;;;;;etiope;;;;;;;;x
+String_IT_Culture_ethiopian_Maschile;;;;;;etiope;;;;;;;;x
+String_IT_Culture_ethiopian_PlFemminile;;;;;;etiopi;;;;;;;;x
+String_IT_Culture_ethiopian_PlMaschile;;;;;;etiopi;;;;;;;;x
+String_IT_Culture_finnish_Femminile;;;;;;finnica;;;;;;;;x
+String_IT_Culture_finnish_Maschile;;;;;;finnico;;;;;;;;x
+String_IT_Culture_finnish_PlFemminile;;;;;;finniche;;;;;;;;x
+String_IT_Culture_finnish_PlMaschile;;;;;;finnici;;;;;;;;x
+String_IT_Culture_frankish_Femminile;;;;;;francese;;;;;;;;x
+String_IT_Culture_frankish_Maschile;;;;;;francese;;;;;;;;x
+String_IT_Culture_frankish_PlFemminile;;;;;;francesi;;;;;;;;x
+String_IT_Culture_frankish_PlMaschile;;;;;;francesi;;;;;;;;x
+String_IT_Culture_frisian_Femminile;;;;;;frisona;;;;;;;;x
+String_IT_Culture_frisian_Maschile;;;;;;frisone;;;;;;;;x
+String_IT_Culture_frisian_PlFemminile;;;;;;frisone;;;;;;;;x
+String_IT_Culture_frisian_PlMaschile;;;;;;frisoni;;;;;;;;x
+String_IT_Culture_georgian_Femminile;;;;;;georgiana;;;;;;;;x
+String_IT_Culture_georgian_Maschile;;;;;;georgiano;;;;;;;;x
+String_IT_Culture_georgian_PlFemminile;;;;;;georgiane;;;;;;;;x
+String_IT_Culture_georgian_PlMaschile;;;;;;georgiani;;;;;;;;x
+String_IT_Culture_german_Femminile;;;;;;tedesca;;;;;;;;x
+String_IT_Culture_german_Maschile;;;;;;tedesco;;;;;;;;x
+String_IT_Culture_german_PlFemminile;;;;;;tedesche;;;;;;;;x
+String_IT_Culture_german_PlMaschile;;;;;;tesschi;;;;;;;;x
+String_IT_Culture_greek_Femminile;;;;;;greca;;;;;;;;x
+String_IT_Culture_greek_Maschile;;;;;;greco;;;;;;;;x
+String_IT_Culture_greek_PlFemminile;;;;;;geche;;;;;;;;x
+String_IT_Culture_greek_PlMaschile;;;;;;greci;;;;;;;;x
+String_IT_Culture_gujurati_Femminile;;;;;;gujarati;;;;;;;;x
+String_IT_Culture_gujurati_Maschile;;;;;;gujarati;;;;;;;;x
+String_IT_Culture_gujurati_PlFemminile;;;;;;gujarati;;;;;;;;x
+String_IT_Culture_gujurati_PlMaschile;;;;;;gujarati;;;;;;;;x
+String_IT_Culture_han_Femminile;;;;;;han;;;;;;;;x
+String_IT_Culture_han_Maschile;;;;;;han;;;;;;;;x
+String_IT_Culture_han_PlFemminile;;;;;;han;;;;;;;;x
+String_IT_Culture_han_PlMaschile;;;;;;han;;;;;;;;x
+String_IT_Culture_hindustani_Femminile;;;;;;induista;;;;;;;;x
+String_IT_Culture_hindustani_Maschile;;;;;;induista;;;;;;;;x
+String_IT_Culture_hindustani_PlFemminile;;;;;;induiste;;;;;;;;x
+String_IT_Culture_hindustani_PlMaschile;;;;;;induisti;;;;;;;;x
+String_IT_Culture_horse_Femminile;;;;;;equina;;;;;;;;x
+String_IT_Culture_horse_Maschile;;;;;;equino;;;;;;;;x
+String_IT_Culture_horse_PlFemminile;;;;;;equine;;;;;;;;x
+String_IT_Culture_horse_PlMaschile;;;;;;equini;;;;;;;;x
+String_IT_Culture_hungarian_Femminile;;;;;;ungara;;;;;;;;x
+String_IT_Culture_hungarian_Maschile;;;;;;ungaro;;;;;;;;x
+String_IT_Culture_hungarian_PlFemminile;;;;;;ungare;;;;;;;;x
+String_IT_Culture_hungarian_PlMaschile;;;;;;ungari;;;;;;;;x
+String_IT_Culture_ilmenian_Femminile;;;;;;ilmena;;;;;;;;x
+String_IT_Culture_ilmenian_Maschile;;;;;;ilmeno;;;;;;;;x
+String_IT_Culture_ilmenian_PlFemminile;;;;;;ilmene;;;;;;;;x
+String_IT_Culture_ilmenian_PlMaschile;;;;;;ilmeni;;;;;;;;x
+String_IT_Culture_irish_Femminile;;;;;;irlandese;;;;;;;;x
+String_IT_Culture_irish_Maschile;;;;;;irlandese;;;;;;;;x
+String_IT_Culture_irish_PlFemminile;;;;;;irlandesi;;;;;;;;x
+String_IT_Culture_irish_PlMaschile;;;;;;irlandesi;;;;;;;;x
+String_IT_Culture_italian_Femminile;;;;;;italiana;;;;;;;;x
+String_IT_Culture_italian_Maschile;;;;;;italiano;;;;;;;;x
+String_IT_Culture_italian_PlFemminile;;;;;;italiane;;;;;;;;x
+String_IT_Culture_italian_PlMaschile;;;;;;italiani;;;;;;;;x
+String_IT_Culture_jurchen_Femminile;;;;;;yurchen;;;;;;;;x
+String_IT_Culture_jurchen_Maschile;;;;;;yurchen;;;;;;;;x
+String_IT_Culture_jurchen_PlFemminile;;;;;;yurchen;;;;;;;;x
+String_IT_Culture_jurchen_PlMaschile;;;;;;yurchen;;;;;;;;x
+String_IT_Culture_kannada_Femminile;;;;;;canarese;;;;;;;;x
+String_IT_Culture_kannada_Maschile;;;;;;canarese;;;;;;;;x
+String_IT_Culture_kannada_PlFemminile;;;;;;canaresi;;;;;;;;x
+String_IT_Culture_kannada_PlMaschile;;;;;;canaresi;;;;;;;;x
+String_IT_Culture_karluk_Femminile;;;;;;karluka;;;;;;;;x
+String_IT_Culture_karluk_Maschile;;;;;;karluko;;;;;;;;x
+String_IT_Culture_karluk_PlFemminile;;;;;;karluke;;;;;;;;x
+String_IT_Culture_karluk_PlMaschile;;;;;;karluki;;;;;;;;x
+String_IT_Culture_khanty_Femminile;;;;;;khanti;;;;;;;;x
+String_IT_Culture_khanty_Maschile;;;;;;khanti;;;;;;;;x
+String_IT_Culture_khanty_PlFemminile;;;;;;khanti;;;;;;;;x
+String_IT_Culture_khanty_PlMaschile;;;;;;khanti;;;;;;;;x
+String_IT_Culture_khazar_Femminile;;;;;;kazara;;;;;;;;x
+String_IT_Culture_khazar_Maschile;;;;;;kazaro;;;;;;;;x
+String_IT_Culture_khazar_PlFemminile;;;;;;kazare;;;;;;;;x
+String_IT_Culture_khazar_PlMaschile;;;;;;kazari;;;;;;;;x
+String_IT_Culture_khitan_Femminile;;;;;;kitana;;;;;;;;x
+String_IT_Culture_khitan_Maschile;;;;;;kitano;;;;;;;;x
+String_IT_Culture_khitan_PlFemminile;;;;;;kitane;;;;;;;;x
+String_IT_Culture_khitan_PlMaschile;;;;;;kitani;;;;;;;;x
+String_IT_Culture_kirghiz_Femminile;;;;;;kirguis;;;;;;;;x
+String_IT_Culture_kirghiz_Maschile;;;;;;kirguis;;;;;;;;x
+String_IT_Culture_kirghiz_PlFemminile;;;;;;kirguis;;;;;;;;x
+String_IT_Culture_kirghiz_PlMaschile;;;;;;kirguis;;;;;;;;x
+String_IT_Culture_komi_Femminile;;;;;;komi;;;;;;;;x
+String_IT_Culture_komi_Maschile;;;;;;komi;;;;;;;;x
+String_IT_Culture_komi_PlFemminile;;;;;;komi;;;;;;;;x
+String_IT_Culture_komi_PlMaschile;;;;;;komi;;;;;;;;x
+String_IT_Culture_kurdish_Femminile;;;;;;curda;;;;;;;;x
+String_IT_Culture_kurdish_Maschile;;;;;;curdo;;;;;;;;x
+String_IT_Culture_kurdish_PlFemminile;;;;;;kurde;;;;;;;;x
+String_IT_Culture_kurdish_PlMaschile;;;;;;kurdi;;;;;;;;x
+String_IT_Culture_lappish_Femminile;;;;;;laponne;;;;;;;;x
+String_IT_Culture_lappish_Maschile;;;;;;laponne;;;;;;;;x
+String_IT_Culture_lappish_PlFemminile;;;;;;laponni;;;;;;;;x
+String_IT_Culture_lappish_PlMaschile;;;;;;laponni;;;;;;;;x
+String_IT_Culture_lettigallish_Femminile;;;;;;latgaliana;;;;;;;;x
+String_IT_Culture_lettigallish_Maschile;;;;;;latgaliano;;;;;;;;x
+String_IT_Culture_lettigallish_PlFemminile;;;;;;latgaliane;;;;;;;;x
+String_IT_Culture_lettigallish_PlMaschile;;;;;;latgaliani;;;;;;;;x
+String_IT_Culture_levantine_arabic_Femminile;;;;;;levantina;;;;;;;;x
+String_IT_Culture_levantine_arabic_Maschile;;;;;;levantino;;;;;;;;x
+String_IT_Culture_levantine_arabic_PlFemminile;;;;;;levantine;;;;;;;;x
+String_IT_Culture_levantine_arabic_PlMaschile;;;;;;levantini;;;;;;;;x
+String_IT_Culture_lithuanian_Femminile;;;;;;lituana;;;;;;;;x
+String_IT_Culture_lithuanian_Maschile;;;;;;lituano;;;;;;;;x
+String_IT_Culture_lithuanian_PlFemminile;;;;;;lituane;;;;;;;;x
+String_IT_Culture_lithuanian_PlMaschile;;;;;;lituani;;;;;;;;x
+String_IT_Culture_lombard_Femminile;;;;;;lombarda;;;;;;;;x
+String_IT_Culture_lombard_Maschile;;;;;;lombardo;;;;;;;;x
+String_IT_Culture_lombard_PlFemminile;;;;;;lombarde;;;;;;;;x
+String_IT_Culture_lombard_PlMaschile;;;;;;lombardi;;;;;;;;x
+String_IT_Culture_maghreb_arabic_Femminile;;;;;;berebera;;;;;;;;x
+String_IT_Culture_maghreb_arabic_Maschile;;;;;;berebero;;;;;;;;x
+String_IT_Culture_maghreb_arabic_PlFemminile;;;;;;berebere;;;;;;;;x
+String_IT_Culture_maghreb_arabic_PlMaschile;;;;;;bereberi;;;;;;;;x
+String_IT_Culture_manden_Femminile;;;;;;mandinga;;;;;;;;x
+String_IT_Culture_manden_Maschile;;;;;;mandinga;;;;;;;;x
+String_IT_Culture_manden_PlFemminile;;;;;;mandinghe;;;;;;;;x
+String_IT_Culture_manden_PlMaschile;;;;;;mandinghi;;;;;;;;x
+String_IT_Culture_maratí_Femminile;;;;;;marati;;;;;;;;x
+String_IT_Culture_maratí_Maschile;;;;;;marati;;;;;;;;x
+String_IT_Culture_maratí_PlFemminile;;;;;;marati;;;;;;;;x
+String_IT_Culture_maratí_PlMaschile;;;;;;marati;;;;;;;;x
+String_IT_Culture_mongol_Femminile;;;;;;mongola;;;;;;;;x
+String_IT_Culture_mongol_Maschile;;;;;;mongolo;;;;;;;;x
+String_IT_Culture_mongol_PlFemminile;;;;;;mongole;;;;;;;;x
+String_IT_Culture_mongol_PlMaschile;;;;;;mongoli;;;;;;;;x
+String_IT_Culture_mordvin_Femminile;;;;;;mordoviana;;;;;;;;x
+String_IT_Culture_mordvin_Maschile;;;;;;mordoviano;;;;;;;;x
+String_IT_Culture_mordvin_PlFemminile;;;;;;mordoviane;;;;;;;;x
+String_IT_Culture_mordvin_PlMaschile;;;;;;mordoviani;;;;;;;;x
+String_IT_Culture_nahuatl_Femminile;;;;;;nahua;;;;;;;;x
+String_IT_Culture_nahuatl_Maschile;;;;;;nahua;;;;;;;;x
+String_IT_Culture_nahuatl_PlFemminile;;;;;;nahua;;;;;;;;x
+String_IT_Culture_nahuatl_PlMaschile;;;;;;nahua;;;;;;;;x
+String_IT_Culture_nepali_Femminile;;;;;;nepalese;;;;;;;;x
+String_IT_Culture_nepali_Maschile;;;;;;nepalese;;;;;;;;x
+String_IT_Culture_nepali_PlFemminile;;;;;;nepalesi;;;;;;;;x
+String_IT_Culture_nepali_PlMaschile;;;;;;nepalesi;;;;;;;;x
+String_IT_Culture_norman_Femminile;;;;;;normanna;;;;;;;;x
+String_IT_Culture_norman_Maschile;;;;;;normanno;;;;;;;;x
+String_IT_Culture_norman_PlFemminile;;;;;;normanne;;;;;;;;x
+String_IT_Culture_norman_PlMaschile;;;;;;normanni;;;;;;;;x
+String_IT_Culture_norse_Femminile;;;;;;nordica;;;;;;;;x
+String_IT_Culture_norse_Maschile;;;;;;nordico;;;;;;;;x
+String_IT_Culture_norse_PlFemminile;;;;;;nordiche;;;;;;;;x
+String_IT_Culture_norse_PlMaschile;;;;;;nordici;;;;;;;;x
+String_IT_Culture_norwegian_Femminile;;;;;;norvegese;;;;;;;;x
+String_IT_Culture_norwegian_Maschile;;;;;;norvegese;;;;;;;;x
+String_IT_Culture_norwegian_PlFemminile;;;;;;norvegesi;;;;;;;;x
+String_IT_Culture_norwegian_PlMaschile;;;;;;norvegesi;;;;;;;;x
+String_IT_Culture_nubian_Femminile;;;;;;nubiana;;;;;;;;x
+String_IT_Culture_nubian_Maschile;;;;;;nubiano;;;;;;;;x
+String_IT_Culture_nubian_PlFemminile;;;;;;nubiane;;;;;;;;x
+String_IT_Culture_nubian_PlMaschile;;;;;;nubiani;;;;;;;;x
+String_IT_Culture_occitan_Femminile;;;;;;occitanas;;;;;;;;x
+String_IT_Culture_occitan_Maschile;;;;;;occitano;;;;;;;;x
+String_IT_Culture_occitan_PlFemminile;;;;;;occitane;;;;;;;;x
+String_IT_Culture_occitan_PlMaschile;;;;;;occitani;;;;;;;;x
+String_IT_Culture_old_frankish_Femminile;;;;;;franca;;;;;;;;x
+String_IT_Culture_old_frankish_Maschile;;;;;;franco;;;;;;;;x
+String_IT_Culture_old_frankish_PlFemminile;;;;;;franche;;;;;;;;x
+String_IT_Culture_old_frankish_PlMaschile;;;;;;franchi;;;;;;;;x
+String_IT_Culture_old_saxon_Femminile;;;;;;sassone;;;;;;;;x
+String_IT_Culture_old_saxon_Maschile;;;;;;sassone;;;;;;;;x
+String_IT_Culture_old_saxon_PlFemminile;;;;;;sassoni;;;;;;;;x
+String_IT_Culture_old_saxon_PlMaschile;;;;;;sassoni;;;;;;;;x
+String_IT_Culture_oriya_Femminile;;;;;;oriya;;;;;;;;x
+String_IT_Culture_oriya_Maschile;;;;;;oriya;;;;;;;;x
+String_IT_Culture_oriya_PlFemminile;;;;;;oriya;;;;;;;;x
+String_IT_Culture_oriya_PlMaschile;;;;;;oriya;;;;;;;;x
+String_IT_Culture_panjabi_Femminile;;;;;;punyabi;;;;;;;;x
+String_IT_Culture_panjabi_Maschile;;;;;;punyabi;;;;;;;;x
+String_IT_Culture_panjabi_PlFemminile;;;;;;punyabi;;;;;;;;x
+String_IT_Culture_panjabi_PlMaschile;;;;;;punyabi;;;;;;;;x
+String_IT_Culture_pecheneg_Femminile;;;;;;pechenega;;;;;;;;x
+String_IT_Culture_pecheneg_Maschile;;;;;;pechenego;;;;;;;;x
+String_IT_Culture_pecheneg_PlFemminile;;;;;;pecheneghe;;;;;;;;x
+String_IT_Culture_pecheneg_PlMaschile;;;;;;pecheneghi;;;;;;;;x
+String_IT_Culture_persian_Femminile;;;;;;persiana;;;;;;;;x
+String_IT_Culture_persian_Maschile;;;;;;persiano;;;;;;;;x
+String_IT_Culture_persian_PlFemminile;;;;;;persiane;;;;;;;;x
+String_IT_Culture_persian_PlMaschile;;;;;;persiani;;;;;;;;x
+String_IT_Culture_pictish_Femminile;;;;;;pitta;;;;;;;;x
+String_IT_Culture_pictish_Maschile;;;;;;pitto;;;;;;;;x
+String_IT_Culture_pictish_PlFemminile;;;;;;pitte;;;;;;;;x
+String_IT_Culture_pictish_PlMaschile;;;;;;pitti;;;;;;;;x
+String_IT_Culture_polish_Femminile;;;;;;polacca;;;;;;;;x
+String_IT_Culture_polish_Maschile;;;;;;polacco;;;;;;;;x
+String_IT_Culture_polish_PlFemminile;;;;;;polacche;;;;;;;;x
+String_IT_Culture_polish_PlMaschile;;;;;;polacchi;;;;;;;;x
+String_IT_Culture_pommeranian_Femminile;;;;;;pomerana;;;;;;;;x
+String_IT_Culture_pommeranian_Maschile;;;;;;pomerano;;;;;;;;x
+String_IT_Culture_pommeranian_PlFemminile;;;;;;pomerane;;;;;;;;x
+String_IT_Culture_pommeranian_PlMaschile;;;;;;pomerani;;;;;;;;x
+String_IT_Culture_portuguese_Femminile;;;;;;portughese;;;;;;;;x
+String_IT_Culture_portuguese_Maschile;;;;;;portughese;;;;;;;;x
+String_IT_Culture_portuguese_PlFemminile;;;;;;portughesi;;;;;;;;x
+String_IT_Culture_portuguese_PlMaschile;;;;;;portughesi;;;;;;;;x
+String_IT_Culture_prussian_Femminile;;;;;;prussiana;;;;;;;;x
+String_IT_Culture_prussian_Maschile;;;;;;prussiano;;;;;;;;x
+String_IT_Culture_prussian_PlFemminile;;;;;;prussiane;;;;;;;;x
+String_IT_Culture_prussian_PlMaschile;;;;;;prussiani;;;;;;;;x
+String_IT_Culture_rajput_Femminile;;;;;;rajput;;;;;;;;x
+String_IT_Culture_rajput_Maschile;;;;;;rajput;;;;;;;;x
+String_IT_Culture_rajput_PlFemminile;;;;;;rajput;;;;;;;;x
+String_IT_Culture_rajput_PlMaschile;;;;;;rajput;;;;;;;;x
+String_IT_Culture_roman_Femminile;;;;;;romana;;;;;;;;x
+String_IT_Culture_roman_Maschile;;;;;;romano;;;;;;;;x
+String_IT_Culture_roman_PlFemminile;;;;;;romane;;;;;;;;x
+String_IT_Culture_roman_PlMaschile;;;;;;romani;;;;;;;;x
+String_IT_Culture_romanian_Femminile;;;;;;vallaca;;;;;;;;x
+String_IT_Culture_romanian_Maschile;;;;;;vallaco;;;;;;;;x
+String_IT_Culture_romanian_PlFemminile;;;;;;vallache;;;;;;;;x
+String_IT_Culture_romanian_PlMaschile;;;;;;vallachi;;;;;;;;x
+String_IT_Culture_russian_Femminile;;;;;;russa;;;;;;;;x
+String_IT_Culture_russian_Maschile;;;;;;russo;;;;;;;;x
+String_IT_Culture_russian_PlFemminile;;;;;;russe;;;;;;;;x
+String_IT_Culture_russian_PlMaschile;;;;;;russi;;;;;;;;x
+String_IT_Culture_saka_Femminile;;;;;;saca;;;;;;;;x
+String_IT_Culture_saka_Maschile;;;;;;saca;;;;;;;;x
+String_IT_Culture_saka_PlFemminile;;;;;;saca;;;;;;;;x
+String_IT_Culture_saka_PlMaschile;;;;;;saca;;;;;;;;x
+String_IT_Culture_samoyed_Femminile;;;;;;samoieda;;;;;;;;x
+String_IT_Culture_samoyed_Maschile;;;;;;samoiedo;;;;;;;;x
+String_IT_Culture_samoyed_PlFemminile;;;;;;samoiede;;;;;;;;x
+String_IT_Culture_samoyed_PlMaschile;;;;;;samoiedi;;;;;;;;x
+String_IT_Culture_saxon_Femminile;;;;;;anglosassone;;;;;;;;x
+String_IT_Culture_saxon_Maschile;;;;;;anglosassone;;;;;;;;x
+String_IT_Culture_saxon_PlFemminile;;;;;;anglosassoni;;;;;;;;x
+String_IT_Culture_saxon_PlMaschile;;;;;;anglosassoni;;;;;;;;x
+String_IT_Culture_scottish_Femminile;;;;;;scozzese;;;;;;;;x
+String_IT_Culture_scottish_Maschile;;;;;;scozzese;;;;;;;;x
+String_IT_Culture_scottish_PlFemminile;;;;;;scozzesi;;;;;;;;x
+String_IT_Culture_scottish_PlMaschile;;;;;;scozzesi;;;;;;;;x
+String_IT_Culture_sephardi_Femminile;;;;;;sefaride;;;;;;;;x
+String_IT_Culture_sephardi_Maschile;;;;;;sefaride;;;;;;;;x
+String_IT_Culture_sephardi_PlFemminile;;;;;;sefaridi;;;;;;;;x
+String_IT_Culture_sephardi_PlMaschile;;;;;;sefaridi;;;;;;;;x
+String_IT_Culture_serbian_Femminile;;;;;;serba;;;;;;;;x
+String_IT_Culture_serbian_Maschile;;;;;;serbo;;;;;;;;x
+String_IT_Culture_serbian_PlFemminile;;;;;;serbe;;;;;;;;x
+String_IT_Culture_serbian_PlMaschile;;;;;;serbi;;;;;;;;x
+String_IT_Culture_severian_Femminile;;;;;;severiana;;;;;;;;x
+String_IT_Culture_severian_Maschile;;;;;;severiano;;;;;;;;x
+String_IT_Culture_severian_PlFemminile;;;;;;severiane;;;;;;;;x
+String_IT_Culture_severian_PlMaschile;;;;;;severiani;;;;;;;;x
+String_IT_Culture_sindhi_Femminile;;;;;;sindhi;;;;;;;;x
+String_IT_Culture_sindhi_Maschile;;;;;;sindhi;;;;;;;;x
+String_IT_Culture_sindhi_PlFemminile;;;;;;sindhi;;;;;;;;x
+String_IT_Culture_sindhi_PlMaschile;;;;;;sindhi;;;;;;;;x
+String_IT_Culture_sinhala_Femminile;;;;;;sinhala;;;;;;;;x
+String_IT_Culture_sinhala_Maschile;;;;;;sinhala;;;;;;;;x
+String_IT_Culture_sinhala_PlFemminile;;;;;;sinhala;;;;;;;;x
+String_IT_Culture_sinhala_PlMaschile;;;;;;sinhala;;;;;;;;x
+String_IT_Culture_sogdian_Femminile;;;;;;sogdiana;;;;;;;;x
+String_IT_Culture_sogdian_Maschile;;;;;;sogdiano;;;;;;;;x
+String_IT_Culture_sogdian_PlFemminile;;;;;;sogdiane;;;;;;;;x
+String_IT_Culture_sogdian_PlMaschile;;;;;;sogdiani;;;;;;;;x
+String_IT_Culture_somali_Femminile;;;;;;somala;;;;;;;;x
+String_IT_Culture_somali_Maschile;;;;;;somalo;;;;;;;;x
+String_IT_Culture_somali_PlFemminile;;;;;;somale;;;;;;;;x
+String_IT_Culture_somali_PlMaschile;;;;;;somali;;;;;;;;x
+String_IT_Culture_suebi_Femminile;;;;;;sveva;;;;;;;;x
+String_IT_Culture_suebi_Maschile;;;;;;svevo;;;;;;;;x
+String_IT_Culture_suebi_PlFemminile;;;;;;sveve;;;;;;;;x
+String_IT_Culture_suebi_PlMaschile;;;;;;svevi;;;;;;;;x
+String_IT_Culture_sumpa_Femminile;;;;;;sumpa;;;;;;;;x
+String_IT_Culture_sumpa_Maschile;;;;;;sumpa;;;;;;;;x
+String_IT_Culture_sumpa_PlFemminile;;;;;;sumpa;;;;;;;;x
+String_IT_Culture_sumpa_PlMaschile;;;;;;sumpa;;;;;;;;x
+String_IT_Culture_swedish_Femminile;;;;;;svedese;;;;;;;;x
+String_IT_Culture_swedish_Maschile;;;;;;svedese;;;;;;;;x
+String_IT_Culture_swedish_PlFemminile;;;;;;svedesi;;;;;;;;x
+String_IT_Culture_swedish_PlMaschile;;;;;;svedesi;;;;;;;;x
+String_IT_Culture_tamil_Femminile;;;;;;tamil;;;;;;;;x
+String_IT_Culture_tamil_Maschile;;;;;;tamil;;;;;;;;x
+String_IT_Culture_tamil_PlFemminile;;;;;;tamil;;;;;;;;x
+String_IT_Culture_tamil_PlMaschile;;;;;;tamil;;;;;;;;x
+String_IT_Culture_tangut_Femminile;;;;;;tangut;;;;;;;;x
+String_IT_Culture_tangut_Maschile;;;;;;tangut;;;;;;;;x
+String_IT_Culture_tangut_PlFemminile;;;;;;tangut;;;;;;;;x
+String_IT_Culture_tangut_PlMaschile;;;;;;tangut;;;;;;;;x
+String_IT_Culture_telugu_Femminile;;;;;;telugu;;;;;;;;x
+String_IT_Culture_telugu_Maschile;;;;;;telugu;;;;;;;;x
+String_IT_Culture_telugu_PlFemminile;;;;;;telugu;;;;;;;;x
+String_IT_Culture_telugu_PlMaschile;;;;;;telugu;;;;;;;;x
+String_IT_Culture_tocharian_Femminile;;;;;;tocaria;;;;;;;;x
+String_IT_Culture_tocharian_Maschile;;;;;;tocario;;;;;;;;x
+String_IT_Culture_tocharian_PlFemminile;;;;;;tocarie;;;;;;;;x
+String_IT_Culture_tocharian_PlMaschile;;;;;;tocari;;;;;;;;x
+String_IT_Culture_turkish_Femminile;;;;;;turca;;;;;;;;x
+String_IT_Culture_turkish_Maschile;;;;;;turco;;;;;;;;x
+String_IT_Culture_turkish_PlFemminile;;;;;;turche;;;;;;;;x
+String_IT_Culture_turkish_PlMaschile;;;;;;turchi;;;;;;;;x
+String_IT_Culture_ugricbaltic_Femminile;;;;;;estone;;;;;;;;x
+String_IT_Culture_ugricbaltic_Maschile;;;;;;estone;;;;;;;;x
+String_IT_Culture_ugricbaltic_PlFemminile;;;;;;estoni;;;;;;;;x
+String_IT_Culture_ugricbaltic_PlMaschile;;;;;;estoni;;;;;;;;x
+String_IT_Culture_uyghur_Femminile;;;;;;uigur;;;;;;;;x
+String_IT_Culture_uyghur_Maschile;;;;;;uigur;;;;;;;;x
+String_IT_Culture_uyghur_PlFemminile;;;;;;uigur;;;;;;;;x
+String_IT_Culture_uyghur_PlMaschile;;;;;;uigur;;;;;;;;x
+String_IT_Culture_visigothic_Femminile;;;;;;visigota;;;;;;;;x
+String_IT_Culture_visigothic_Maschile;;;;;;visigoto;;;;;;;;x
+String_IT_Culture_visigothic_PlFemminile;;;;;;visigote;;;;;;;;x
+String_IT_Culture_visigothic_PlMaschile;;;;;;visigoti;;;;;;;;x
+String_IT_Culture_volhynian_Femminile;;;;;;voliniana;;;;;;;;x
+String_IT_Culture_volhynian_Maschile;;;;;;voliniano;;;;;;;;x
+String_IT_Culture_volhynian_PlFemminile;;;;;;voliniane;;;;;;;;x
+String_IT_Culture_volhynian_PlMaschile;;;;;;voliniani;;;;;;;;x
+String_IT_Culture_welsh_Femminile;;;;;;gallese;;;;;;;;x
+String_IT_Culture_welsh_Maschile;;;;;;gallese;;;;;;;;x
+String_IT_Culture_welsh_PlFemminile;;;;;;gallesi;;;;;;;;x
+String_IT_Culture_welsh_PlMaschile;;;;;;gallesi;;;;;;;;x
+String_IT_Culture_zhangzhung_Femminile;;;;;;zhangzhung;;;;;;;;x
+String_IT_Culture_zhangzhung_Maschile;;;;;;zhangzhung;;;;;;;;x
+String_IT_Culture_zhangzhung_PlFemminile;;;;;;zhangzhung;;;;;;;;x
+String_IT_Culture_zhangzhung_PlMaschile;;;;;;zhangzhung;;;;;;;;x
+### Stringhe Religioni
+String_IT_Religion_aztec_Femminile;;;;;;azteca;;;;;;;;x
+String_IT_Religion_aztec_Maschile;;;;;;azteco;;;;;;;;x
+String_IT_Religion_aztec_PlFemminile;;;;;;azteche;;;;;;;;x
+String_IT_Religion_aztec_PlMaschile;;;;;;aztechi;;;;;;;;x
+String_IT_Religion_aztec_reformed_Femminile;;;;;;azteca;;;;;;;;x
+String_IT_Religion_aztec_reformed_Maschile;;;;;;azteco;;;;;;;;x
+String_IT_Religion_aztec_reformed_PlFemminile;;;;;;azteche;;;;;;;;x
+String_IT_Religion_aztec_reformed_PlMaschile;;;;;;aztechi;;;;;;;;x
+String_IT_Religion_baltic_pagan_Femminile;;;;;;romuvana;;;;;;;;x
+String_IT_Religion_baltic_pagan_Maschile;;;;;;romuvano;;;;;;;;x
+String_IT_Religion_baltic_pagan_PlFemminile;;;;;;romuvane;;;;;;;;x
+String_IT_Religion_baltic_pagan_PlMaschile;;;;;;romuvani;;;;;;;;x
+String_IT_Religion_baltic_pagan_reformed_Femminile;;;;;;romuvana;;;;;;;;x
+String_IT_Religion_baltic_pagan_reformed_Maschile;;;;;;romuvano;;;;;;;;x
+String_IT_Religion_baltic_pagan_reformed_PlFemminile;;;;;;romuvane;;;;;;;;x
+String_IT_Religion_baltic_pagan_reformed_PlMaschile;;;;;;romuvani;;;;;;;;x
+String_IT_Religion_bogomilist_Femminile;;;;;;bogomila;;;;;;;;x
+String_IT_Religion_bogomilist_Maschile;;;;;;bogomilo;;;;;;;;x
+String_IT_Religion_bogomilist_PlFemminile;;;;;;bogomile;;;;;;;;x
+String_IT_Religion_bogomilist_PlMaschile;;;;;;bogomili;;;;;;;;x
+String_IT_Religion_bon_Femminile;;;;;;bön;;;;;;;;x
+String_IT_Religion_bon_Maschile;;;;;;bön;;;;;;;;x
+String_IT_Religion_bon_PlFemminile;;;;;;bön;;;;;;;;x
+String_IT_Religion_bon_PlMaschile;;;;;;bön;;;;;;;;x
+String_IT_Religion_buddhist_Femminile;;;;;;buddista;;;;;;;;x
+String_IT_Religion_buddhist_Maschile;;;;;;buddista;;;;;;;;x
+String_IT_Religion_buddhist_PlFemminile;;;;;;buddiste;;;;;;;;x
+String_IT_Religion_buddhist_PlMaschile;;;;;;buddisti;;;;;;;;x
+String_IT_Religion_cathar_Femminile;;;;;;catara;;;;;;;;x
+String_IT_Religion_cathar_Maschile;;;;;;cataro;;;;;;;;x
+String_IT_Religion_cathar_PlFemminile;;;;;;catare;;;;;;;;x
+String_IT_Religion_cathar_PlMaschile;;;;;;cátari;;;;;;;;x
+String_IT_Religion_catholic_Femminile;;;;;;cattolica;;;;;;;;x
+String_IT_Religion_catholic_Maschile;;;;;;cattolico;;;;;;;;x
+String_IT_Religion_catholic_PlFemminile;;;;;;cattoliche;;;;;;;;x
+String_IT_Religion_catholic_PlMaschile;;;;;;cattolici;;;;;;;;x
+String_IT_Religion_druze_Femminile;;;;;;drusa;;;;;;;;x
+String_IT_Religion_druze_Maschile;;;;;;druso;;;;;;;;x
+String_IT_Religion_druze_PlFemminile;;;;;;druse;;;;;;;;x
+String_IT_Religion_druze_PlMaschile;;;;;;drusi;;;;;;;;x
+String_IT_Religion_finnish_pagan_Femminile;;;;;;suomenusko;;;;;;;;x
+String_IT_Religion_finnish_pagan_Maschile;;;;;;suomenusko;;;;;;;;x
+String_IT_Religion_finnish_pagan_PlFemminile;;;;;;suomenuske;;;;;;;;x
+String_IT_Religion_finnish_pagan_PlMaschile;;;;;;suomenuski;;;;;;;;x
+String_IT_Religion_finnish_pagan_reformed_Femminile;;;;;;suomenusko;;;;;;;;x
+String_IT_Religion_finnish_pagan_reformed_Maschile;;;;;;suomenusko;;;;;;;;x
+String_IT_Religion_finnish_pagan_reformed_PlFemminile;;;;;;suomenuske;;;;;;;;x
+String_IT_Religion_finnish_pagan_reformed_PlMaschile;;;;;;suomenuski;;;;;;;;x
+String_IT_Religion_fraticelli_Femminile;;;;;;fraticelli;;;;;;;;x
+String_IT_Religion_fraticelli_Maschile;;;;;;fraticelli;;;;;;;;x
+String_IT_Religion_fraticelli_PlFemminile;;;;;;fraticelli;;;;;;;;x
+String_IT_Religion_fraticelli_PlMaschile;;;;;;fraticelli;;;;;;;;x
+String_IT_Religion_hellenic_pagan_Femminile;;;;;;elenica;;;;;;;;x
+String_IT_Religion_hellenic_pagan_Maschile;;;;;;elenico;;;;;;;;x
+String_IT_Religion_hellenic_pagan_PlFemminile;;;;;;eleniche;;;;;;;;x
+String_IT_Religion_hellenic_pagan_PlMaschile;;;;;;ellenici;;;;;;;;x
+String_IT_Religion_hindu_Femminile;;;;;;induista;;;;;;;;x
+String_IT_Religion_hindu_Maschile;;;;;;induista;;;;;;;;x
+String_IT_Religion_hindu_PlFemminile;;;;;;induiste;;;;;;;;x
+String_IT_Religion_hindu_PlMaschile;;;;;;induisti;;;;;;;;x
+String_IT_Religion_hurufi_Femminile;;;;;;hurufita;;;;;;;;x
+String_IT_Religion_hurufi_Maschile;;;;;;hurufita;;;;;;;;x
+String_IT_Religion_hurufi_PlFemminile;;;;;;hurufite;;;;;;;;x
+String_IT_Religion_hurufi_PlMaschile;;;;;;hurufiti;;;;;;;;x
+String_IT_Religion_ibadi_Femminile;;;;;;ibadita;;;;;;;;x
+String_IT_Religion_ibadi_Maschile;;;;;;ibadita;;;;;;;;x
+String_IT_Religion_ibadi_PlFemminile;;;;;;ibadite;;;;;;;;x
+String_IT_Religion_ibadi_PlMaschile;;;;;;ibaditi;;;;;;;;x
+String_IT_Religion_iconoclast_Femminile;;;;;;iconoclasta;;;;;;;;x
+String_IT_Religion_iconoclast_Maschile;;;;;;iconoclasta;;;;;;;;x
+String_IT_Religion_iconoclast_PlFemminile;;;;;;iconoclaste;;;;;;;;x
+String_IT_Religion_iconoclast_PlMaschile;;;;;;iconoclasti;;;;;;;;x
+String_IT_Religion_jain_Femminile;;;;;;gianista;;;;;;;;x
+String_IT_Religion_jain_Maschile;;;;;;gianista;;;;;;;;x
+String_IT_Religion_jain_PlFemminile;;;;;;gianiste;;;;;;;;x
+String_IT_Religion_jain_PlMaschile;;;;;;gianisti;;;;;;;;x
+String_IT_Religion_jewish_Femminile;;;;;;giudea;;;;;;;;x
+String_IT_Religion_jewish_Maschile;;;;;;giudeo;;;;;;;;x
+String_IT_Religion_jewish_PlFemminile;;;;;;giudee;;;;;;;;x
+String_IT_Religion_jewish_PlMaschile;;;;;;giudei;;;;;;;;x
+String_IT_Religion_karaite_Femminile;;;;;;karaita;;;;;;;;x
+String_IT_Religion_karaite_Maschile;;;;;;karaita;;;;;;;;x
+String_IT_Religion_karaite_PlFemminile;;;;;;karaite;;;;;;;;x
+String_IT_Religion_karaite_PlMaschile;;;;;;karaiti;;;;;;;;x
+String_IT_Religion_kharijite_Femminile;;;;;;jariyita;;;;;;;;x
+String_IT_Religion_kharijite_Maschile;;;;;;jariyita;;;;;;;;x
+String_IT_Religion_kharijite_PlFemminile;;;;;;jariyite;;;;;;;;x
+String_IT_Religion_kharijite_PlMaschile;;;;;;jariyiti;;;;;;;;x
+String_IT_Religion_khurmazta_Femminile;;;;;;khurmazta;;;;;;;;x
+String_IT_Religion_khurmazta_Maschile;;;;;;khurmazta;;;;;;;;x
+String_IT_Religion_khurmazta_PlFemminile;;;;;;khurmazte;;;;;;;;x
+String_IT_Religion_khurmazta_PlMaschile;;;;;;khurmazti;;;;;;;;x
+String_IT_Religion_lollard_Femminile;;;;;;lollarda;;;;;;;;x
+String_IT_Religion_lollard_Maschile;;;;;;lollardo;;;;;;;;x
+String_IT_Religion_lollard_PlFemminile;;;;;;lollarde;;;;;;;;x
+String_IT_Religion_lollard_PlMaschile;;;;;;lollardi;;;;;;;;x
+String_IT_Religion_manichean_Femminile;;;;;;manichea;;;;;;;;x
+String_IT_Religion_manichean_Maschile;;;;;;maicheo;;;;;;;;x
+String_IT_Religion_manichean_PlFemminile;;;;;;maichei;;;;;;;;x
+String_IT_Religion_manichean_PlMaschile;;;;;;maichee;;;;;;;;x
+String_IT_Religion_mazdaki_Femminile;;;;;;mazdakita;;;;;;;;x
+String_IT_Religion_mazdaki_Maschile;;;;;;mazdakita;;;;;;;;x
+String_IT_Religion_mazdaki_PlFemminile;;;;;;mazdakiti;;;;;;;;x
+String_IT_Religion_mazdaki_PlMaschile;;;;;;mazdakite;;;;;;;;x
+String_IT_Religion_messalian_Femminile;;;;;;messaliana;;;;;;;;x
+String_IT_Religion_messalian_Maschile;;;;;;messaliano;;;;;;;;x
+String_IT_Religion_messalian_PlFemminile;;;;;;messaliane;;;;;;;;x
+String_IT_Religion_messalian_PlMaschile;;;;;;mesaliani;;;;;;;;x
+String_IT_Religion_miaphysite_Femminile;;;;;;miafisita;;;;;;;;x
+String_IT_Religion_miaphysite_Maschile;;;;;;miafisita;;;;;;;;x
+String_IT_Religion_miaphysite_PlFemminile;;;;;;miafisite;;;;;;;;x
+String_IT_Religion_miaphysite_PlMaschile;;;;;;miafisiti;;;;;;;;x
+String_IT_Religion_monophysite_Femminile;;;;;;monofisita;;;;;;;;x
+String_IT_Religion_monophysite_Maschile;;;;;;monofisita;;;;;;;;x
+String_IT_Religion_monophysite_PlFemminile;;;;;;monofisite;;;;;;;;x
+String_IT_Religion_monophysite_PlMaschile;;;;;;monofisiti;;;;;;;;x
+String_IT_Religion_monothelite_Femminile;;;;;;monotelita;;;;;;;;x
+String_IT_Religion_monothelite_Maschile;;;;;;monotelita;;;;;;;;x
+String_IT_Religion_monothelite_PlFemminile;;;;;;monotelite;;;;;;;;x
+String_IT_Religion_monothelite_PlMaschile;;;;;;monoteliti;;;;;;;;x
+String_IT_Religion_nestorian_Femminile;;;;;;nestoriana;;;;;;;;x
+String_IT_Religion_nestorian_Maschile;;;;;;nestoriano;;;;;;;;x
+String_IT_Religion_nestorian_PlFemminile;;;;;;nestoriane;;;;;;;;x
+String_IT_Religion_nestorian_PlMaschile;;;;;;nestoriani;;;;;;;;x
+String_IT_Religion_norse_pagan_Femminile;;;;;;germanica;;;;;;;;x
+String_IT_Religion_norse_pagan_Maschile;;;;;;germanico;;;;;;;;x
+String_IT_Religion_norse_pagan_PlFemminile;;;;;;germaniche;;;;;;;;x
+String_IT_Religion_norse_pagan_PlMaschile;;;;;;germanici;;;;;;;;x
+String_IT_Religion_norse_pagan_reformed_Femminile;;;;;;germanica;;;;;;;;x
+String_IT_Religion_norse_pagan_reformed_Maschile;;;;;;germanico;;;;;;;;x
+String_IT_Religion_norse_pagan_reformed_PlFemminile;;;;;;germaniche;;;;;;;;x
+String_IT_Religion_norse_pagan_reformed_PlMaschile;;;;;;germanici;;;;;;;;x
+String_IT_Religion_orthodox_Femminile;;;;;;ortodossa;;;;;;;;x
+String_IT_Religion_orthodox_Maschile;;;;;;ortodosso;;;;;;;;x
+String_IT_Religion_orthodox_PlFemminile;;;;;;ortodosse;;;;;;;;x
+String_IT_Religion_orthodox_PlMaschile;;;;;;ortodossi;;;;;;;;x
+String_IT_Religion_pagan_Femminile;;;;;;pagana;;;;;;;;x
+String_IT_Religion_pagan_Maschile;;;;;;pagano;;;;;;;;x
+String_IT_Religion_pagan_PlFemminile;;;;;;pagane;;;;;;;;x
+String_IT_Religion_pagan_PlMaschile;;;;;;pagani;;;;;;;;x
+String_IT_Religion_paulician_Femminile;;;;;;pauliciana;;;;;;;;x
+String_IT_Religion_paulician_Maschile;;;;;;pauliciano;;;;;;;;x
+String_IT_Religion_paulician_PlFemminile;;;;;;pauliciane;;;;;;;;x
+String_IT_Religion_paulician_PlMaschile;;;;;;pauliciani;;;;;;;;x
+String_IT_Religion_samaritan_Femminile;;;;;;samaritana;;;;;;;;x
+String_IT_Religion_samaritan_Maschile;;;;;;samaritano;;;;;;;;x
+String_IT_Religion_samaritan_PlFemminile;;;;;;samaritani;;;;;;;;x
+String_IT_Religion_samaritan_PlMaschile;;;;;;samaritani;;;;;;;;x
+String_IT_Religion_shiite_Femminile;;;;;;sciita;;;;;;;;x
+String_IT_Religion_shiite_Maschile;;;;;;sciita;;;;;;;;x
+String_IT_Religion_shiite_PlFemminile;;;;;;sciite;;;;;;;;x
+String_IT_Religion_shiite_PlMaschile;;;;;;sciiti;;;;;;;;x
+String_IT_Religion_slavic_pagan_Femminile;;;;;;slava;;;;;;;;x
+String_IT_Religion_slavic_pagan_Maschile;;;;;;slavo;;;;;;;;x
+String_IT_Religion_slavic_pagan_PlFemminile;;;;;;slave;;;;;;;;x
+String_IT_Religion_slavic_pagan_PlMaschile;;;;;;slavi;;;;;;;;x
+String_IT_Religion_slavic_pagan_reformed_Femminile;;;;;;slava;;;;;;;;x
+String_IT_Religion_slavic_pagan_reformed_Maschile;;;;;;slavo;;;;;;;;x
+String_IT_Religion_slavic_pagan_reformed_PlFemminile;;;;;;slave;;;;;;;;x
+String_IT_Religion_slavic_pagan_reformed_PlMaschile;;;;;;slavi;;;;;;;;x
+String_IT_Religion_sunni_Femminile;;;;;;sunita;;;;;;;;x
+String_IT_Religion_sunni_Maschile;;;;;;sunita;;;;;;;;x
+String_IT_Religion_sunni_PlFemminile;;;;;;sunite;;;;;;;;x
+String_IT_Religion_sunni_PlMaschile;;;;;;suniti;;;;;;;;x
+String_IT_Religion_taoist_Femminile;;;;;;taoista;;;;;;;;x
+String_IT_Religion_taoist_Maschile;;;;;;taoista;;;;;;;;x
+String_IT_Religion_taoist_PlFemminile;;;;;;taoiste;;;;;;;;x
+String_IT_Religion_taoist_PlMaschile;;;;;;taoisti;;;;;;;;x
+String_IT_Religion_tengri_pagan_Femminile;;;;;;tengrista;;;;;;;;x
+String_IT_Religion_tengri_pagan_Maschile;;;;;;tengrista;;;;;;;;x
+String_IT_Religion_tengri_pagan_PlFemminile;;;;;;tengriste;;;;;;;;x
+String_IT_Religion_tengri_pagan_PlMaschile;;;;;;tengristi;;;;;;;;x
+String_IT_Religion_tengri_pagan_reformed_Femminile;;;;;;tengrista;;;;;;;;x
+String_IT_Religion_tengri_pagan_reformed_Maschile;;;;;;tengrista;;;;;;;;x
+String_IT_Religion_tengri_pagan_reformed_PlFemminile;;;;;;tengriste;;;;;;;;x
+String_IT_Religion_tengri_pagan_reformed_PlMaschile;;;;;;tengristi;;;;;;;;x
+String_IT_Religion_waldensian_Femminile;;;;;;valdese;;;;;;;;x
+String_IT_Religion_waldensian_Maschile;;;;;;valdese;;;;;;;;x
+String_IT_Religion_waldensian_PlFemminile;;;;;;valdesi;;;;;;;;x
+String_IT_Religion_waldensian_PlMaschile;;;;;;valdesi;;;;;;;;x
+String_IT_Religion_west_african_pagan_Femminile;;;;;;africana occidentale;;;;;;;;x
+String_IT_Religion_west_african_pagan_Maschile;;;;;;africano occidentale;;;;;;;;x
+String_IT_Religion_west_african_pagan_PlFemminile;;;;;;africane occidentali;;;;;;;;x
+String_IT_Religion_west_african_pagan_PlMaschile;;;;;;africani occidentali;;;;;;;;x
+String_IT_Religion_west_african_pagan_reformed_Femminile;;;;;;africana occidentale;;;;;;;;x
+String_IT_Religion_west_african_pagan_reformed_Maschile;;;;;;africano occidentale;;;;;;;;x
+String_IT_Religion_west_african_pagan_reformed_PlFemminile;;;;;;africane occidentali;;;;;;;;x
+String_IT_Religion_west_african_pagan_reformed_PlMaschile;;;;;;africani occidentali;;;;;;;;x
+String_IT_Religion_yazidi_Femminile;;;;;;yazidita;;;;;;;;x
+String_IT_Religion_yazidi_Maschile;;;;;;yazidita;;;;;;;;x
+String_IT_Religion_yazidi_PlFemminile;;;;;;yazidite;;;;;;;;x
+String_IT_Religion_yazidi_PlMaschile;;;;;;yaziditi;;;;;;;;x
+String_IT_Religion_zikri_Femminile;;;;;;zikrita;;;;;;;;x
+String_IT_Religion_zikri_Maschile;;;;;;zikrita;;;;;;;;x
+String_IT_Religion_zikri_PlFemminile;;;;;;zikrite;;;;;;;;x
+String_IT_Religion_zikri_PlMaschile;;;;;;zikriti;;;;;;;;x
+String_IT_Religion_zoroastrian_Femminile;;;;;;zororastiana;;;;;;;;x
+String_IT_Religion_zoroastrian_Maschile;;;;;;zororastiano;;;;;;;;x
+String_IT_Religion_zoroastrian_PlFemminile;;;;;;zororastiane;;;;;;;;x
+String_IT_Religion_zoroastrian_PlMaschile;;;;;;zororastiani;;;;;;;;x
+String_IT_Religion_zun_pagan_Femminile;;;;;;zunista;;;;;;;;x
+String_IT_Religion_zun_pagan_Maschile;;;;;;zunista;;;;;;;;x
+String_IT_Religion_zun_pagan_PlFemminile;;;;;;zuniste;;;;;;;;x
+String_IT_Religion_zun_pagan_PlMaschile;;;;;;zunisti;;;;;;;;x
+String_IT_Religion_zun_pagan_reformed_Femminile;;;;;;zunista;;;;;;;;x
+String_IT_Religion_zun_pagan_reformed_Maschile;;;;;;zunista;;;;;;;;x
+String_IT_Religion_zun_pagan_reformed_PlFemminile;;;;;;zuniste;;;;;;;;x
+String_IT_Religion_zun_pagan_reformed_PlMaschile;;;;;;zunisti;;;;;;;;x
+String_IT_Religion_fidele;;;;;;fedele;;;;;;;;x
+### Stringhe Gruppi Religiosi
+String_IT_ReligionGroups_christian_Femminile;;;;;;cristiana;;;;;;;;x
+String_IT_ReligionGroups_christian_Maschile;;;;;;cristiano;;;;;;;;x
+String_IT_ReligionGroups_christian_PlFemminile;;;;;;cristiane;;;;;;;;x
+String_IT_ReligionGroups_christian_PlMaschile;;;;;;cristiani;;;;;;;;x
+String_IT_ReligionGroups_indian_group_Femminile;;;;;;darmica;;;;;;;;x
+String_IT_ReligionGroups_indian_group_Maschile;;;;;;darmico;;;;;;;;x
+String_IT_ReligionGroups_indian_group_PlFemminile;;;;;;darmiche;;;;;;;;x
+String_IT_ReligionGroups_indian_group_PlMaschile;;;;;;darmici;;;;;;;;x
+String_IT_ReligionGroups_jewish_group_Femminile;;;;;;israelita;;;;;;;;x
+String_IT_ReligionGroups_jewish_group_Maschile;;;;;;israelita;;;;;;;;x
+String_IT_ReligionGroups_jewish_group_PlFemminile;;;;;;israelite;;;;;;;;x
+String_IT_ReligionGroups_jewish_group_PlMaschile;;;;;;israeliti;;;;;;;;x
+String_IT_ReligionGroups_muslim_Femminile;;;;;;musulmana;;;;;;;;x
+String_IT_ReligionGroups_muslim_Maschile;;;;;;musulmano;;;;;;;;x
+String_IT_ReligionGroups_muslim_PlFemminile;;;;;;musulmane;;;;;;;;x
+String_IT_ReligionGroups_muslim_PlMaschile;;;;;;musulmani;;;;;;;;x
+String_IT_ReligionGroups_pagan_group_Femminile;;;;;;pagana;;;;;;;;x
+String_IT_ReligionGroups_pagan_group_Maschile;;;;;;pagano;;;;;;;;x
+String_IT_ReligionGroups_pagan_group_PlFemminile;;;;;;pagane;;;;;;;;x
+String_IT_ReligionGroups_pagan_group_PlMaschile;;;;;;pagani;;;;;;;;x
+String_IT_ReligionGroups_zoroastrian_group_Femminile;;;;;;mazdakita;;;;;;;;x
+String_IT_ReligionGroups_zoroastrian_group_Maschile;;;;;;mazdakita;;;;;;;;x
+String_IT_ReligionGroups_zoroastrian_group_PlFemminile;;;;;;mazdakite;;;;;;;;x
+String_IT_ReligionGroups_zoroastrian_group_PlMaschile;;;;;;mazdakiti;;;;;;;;x
+### Stringhe Dio Malvagio + IlLaGli
+String_IT_GetEvilGodLaGli_AHRIMAN;;;;;;Ahriman;;;;;;;;x
+String_IT_GetEvilGodLaGli_ERLIK;;;;;;Erlik;;;;;;;;x
+String_IT_GetEvilGodLaGli_GOD_VELES;;;;;;Veles;;;;;;;;x
+String_IT_GetEvilGodLaGli_GOD_THE_EVIL_ONES;;;;;;i Maligni;;;;;;;;x
+String_IT_GetEvilGodLaGli_IBLIS;;;;;;Iblis;;;;;;;;x
+String_IT_GetEvilGodLaGli_KING_YAN;;;;;;il Re Yan;;;;;;;;x
+String_IT_GetEvilGodLaGli_LOKI;;;;;;Loki;;;;;;;;x
+String_IT_GetEvilGodLaGli_MARA;;;;;;Mara;;;;;;;;x
+String_IT_GetEvilGodLaGli_SATAN;;;;;;Satana;;;;;;;;x
+String_IT_GetEvilGodLaGli_SATURN;;;;;;Saturno;;;;;;;;x
+String_IT_GetEvilGodLaGli_THE_DARK_SPIRITS;;;;;;Gli Spiriti Oscuri;;;;;;;;x
+String_IT_GetEvilGodLaGli_THE_DARKNESS;;;;;;la Oscurità;;;;;;;;x
+String_IT_GetEvilGodLaGli_THE_DEMIURGE;;;;;;il Demiurgo;;;;;;;;x
+String_IT_GetEvilGodLaGli_THE_DEVIL;;;;;;il Diavolo;;;;;;;;x
+String_IT_GetEvilGodLaGli_THE_PUNISHERS;;;;;;i Castigatori;;;;;;;;x
+String_IT_GetEvilGodLaGli_THE_VINAYAKAS;;;;;;i Vinayaka;;;;;;;;x
+String_IT_GetEvilGodLaGli_TLAZOLTEOTL;;;;;;Tlazolteotl;;;;;;;;x
+String_IT_GetEvilGodLaGli_TUONI;;;;;;Tuoni;;;;;;;;x
+String_IT_GetEvilGodLaGli_VELNIAS;;;;;;Velnias;;;;;;;;x
+### Stringhe Dio Malvagio + DelDellaDegli
+String_IT_GetEvilGodDelDellla_AHRIMAN;;;;;;di Ahriman;;;;;;;;x
+String_IT_GetEvilGodDelDellla_ERLIK;;;;;;di Erlik;;;;;;;;x
+String_IT_GetEvilGodDelDellla_GOD_VELES;;;;;;di Veles;;;;;;;;x
+String_IT_GetEvilGodDelDellla_IBLIS;;;;;;di Iblis;;;;;;;;x
+String_IT_GetEvilGodDelDellla_KING_YAN;;;;;;del Re Yan;;;;;;;;x
+String_IT_GetEvilGodDelDellla_LOKI;;;;;;di Loki;;;;;;;;x
+String_IT_GetEvilGodDelDellla_MARA;;;;;;di Mara;;;;;;;;x
+String_IT_GetEvilGodDelDellla_PLUTO;;;;;;di Plutone;;;;;;;;x
+String_IT_GetEvilGodDelDellla_SATAN;;;;;;di Satana;;;;;;;;x
+String_IT_GetEvilGodDelDellla_SATURN;;;;;;di Saturno;;;;;;;;x
+String_IT_GetEvilGodDelDellla_THE_DEMIURGE;;;;;;del Demiurgo;;;;;;;;x
+String_IT_GetEvilGodDelDellla_THE_DEVIL;;;;;;del Diavolo;;;;;;;;x
+String_IT_GetEvilGodDelDellla_TLAZOLTEOTL;;;;;;di Tlazolteotl;;;;;;;;x
+String_IT_GetEvilGodDelDellla_TUONI;;;;;;di Tuoni;;;;;;;;x
+String_IT_GetEvilGodDelDellla_VELNIAS;;;;;;di Velnias;;;;;;;;x
+### Stringhe Dio Malvagio + DellaDegli
+String_IT_GetEvilGodDellaDegli_GOD_THE_EVIL_ONES;;;;;;dei Maligni;;;;;;;;x
+String_IT_GetEvilGodDellaDegli_THE_VINAYAKAS;;;;;;dei Vinayakas;;;;;;;;x
+String_IT_GetEvilGodDellaDegli_THE_PUNISHERS;;;;;;dei Castigatori;;;;;;;;x
+String_IT_GetEvilGodDellaDegli_THE_DARK_SPIRITS;;;;;;degli Spiriti Oscuri;;;;;;;;x
+String_IT_GetEvilGodDellaDegli_THE_DARK_SPIRITS;;;;;;degli Spiriti Oscuri;;;;;;;;x
+String_IT_GetEvilGodDellaDegli_THE_DARK_SPIRITS;;;;;;degli Spiriti Oscuri;;;;;;;;x
+String_IT_GetEvilGodDellaDegli_THE_DARK_SPIRITS;;;;;;degli Spiriti Oscuri;;;;;;;;x
+String_IT_GetEvilGodDellaDegli_THE_DARKNESS;;;;;;della Oscurità;;;;;;;;x
+String_IT_GetEvilGodDellaDegli_THE_DARKNESS;;;;;;della Oscurità;;;;;;;;x
+### Stringhe Governi
+String_IT_GovernmentMaschile_chinese_imperial_government;;;;;;imperiale cinese;;;;;;;;x
+String_IT_GovernmentMaschile_confucian_bureaucracy;;;;;;burocratico confuciano;;;;;;;;x
+String_IT_GovernmentMaschile_feudal_government;;;;;;feudale;;;;;;;;x
+String_IT_GovernmentMaschile_merchant_republic_government;;;;;;repubblica mercantile;;;;;;;;x
+String_IT_GovernmentMaschile_muslim_government;;;;;;iqta;;;;;;;;x
+String_IT_GovernmentMaschile_nomadic_government;;;;;;nomade;;;;;;;;x
+String_IT_GovernmentMaschile_republic_government;;;;;;repubblicano;;;;;;;;x
+String_IT_GovernmentMaschile_theocracy_government;;;;;;teocratico;;;;;;;;x
+String_IT_GovernmentMaschile_theocratic_feudal_government;;;;;;feudale monastico;;;;;;;;x
+String_IT_GovernmentMaschile_tribal_government;;;;;;tribale;;;;;;;;x
+String_IT_GovernmentIlLa_chinese_imperial_government;;;;;;l'Impero Cinese;;;;;;;;x
+String_IT_GovernmentIlLa_confucian_bureaucracy;;;;;;la burocrazia confuciana;;;;;;;;x
+String_IT_GovernmentIlLa_feudal_government;;;;;;il feudalesimo;;;;;;;;x
+String_IT_GovernmentIlLa_merchant_republic_government;;;;;;la repubblica mercantile;;;;;;;;x
+String_IT_GovernmentIlLa_muslim_government;;;;;;l'iqta;;;;;;;;x
+String_IT_GovernmentIlLa_nomadic_government;;;;;;il nomadico;;;;;;;;x
+String_IT_GovernmentIlLa_theocracy_government;;;;;;la teocrazia;;;;;;;;x
+String_IT_GovernmentIlLa_republic_government;;;;;;la repubblica;;;;;;;;x
+String_IT_GovernmentIlLa_tribal_government;;;;;;il tribale;;;;;;;;x
+String_IT_GovernmentIlLa_theocratic_feudal_government;;;;;;la teocrazia;;;;;;;;x
+String_IT_GovernmentIlLaCap_chinese_imperial_government;;;;;;L'Impero Cinese;;;;;;;;x
+String_IT_GovernmentIlLaCap_confucian_bureaucracy;;;;;;La burocrazia confuciana;;;;;;;;x
+String_IT_GovernmentIlLaCap_feudal_government;;;;;;Il feudalesimo;;;;;;;;x
+String_IT_GovernmentIlLaCap_merchant_republic_government;;;;;;La repubblica mercantile;;;;;;;;x
+String_IT_GovernmentIlLaCap_muslim_government;;;;;;L'iqta;;;;;;;;x
+String_IT_GovernmentIlLaCap_nomadic_government;;;;;;Il nomadico;;;;;;;;x
+String_IT_GovernmentIlLaCap_republic_government;;;;;;La repubblica;;;;;;;;x
+String_IT_GovernmentIlLaCap_theocracy_government;;;;;;La teocrazia;;;;;;;;x
+String_IT_GovernmentIlLaCap_theocratic_feudal_government;;;;;;Il feudale monastico;;;;;;;;x
+String_IT_GovernmentIlLaCap_tribal_government;;;;;;Il tribale;;;;;;;;x
+### GetDWReasonToJoinAlternative
+String_IT_GetDWReasonToJoinAlternative_ill_lover;;;;;;Si è preso cura del mio amante;;;;;;;;x
+String_IT_GetDWReasonToJoinAlternative_ill_spouse;;;;;;Si è preso cura del mio coniuge;;;;;;;;x
+String_IT_GetDWReasonToJoinAlternative_ill_child;;;;;;Si è preso cura di mio figlio;;;;;;;;x
+String_IT_GetDWReasonToJoinAlternative_money_troubles;;;;;;Ha risolto i miei problemi di denaro;;;;;;;;x
+String_IT_GetDWReasonToJoinAlternative_has_a_rival;;;;;;Mi ha aiutato a sconfiggere il mio rivale;;;;;;;;x
+String_IT_GetDWReasonToJoinAlternative_illness;;;;;;Mi ha liberato dalla mia malattia;;;;;;;;x
+String_IT_GetDWReasonToJoinAlternative_battle_luck;;;;;;Mi ha aiutato a vincere le battaglie;;;;;;;;x
+String_IT_GetDWReasonToJoinAlternative_GetDWReasonToJoin_fallback;;;;;;Mi ha aiutato a sconfiggere i miei nemici;;;;;;;;x
+### GetHouseIlLa
+String_IT_longhouse_IlLa;;;;;;la casa lunga;;;;;;;;x
+String_IT_pavillion_IlLa;;;;;;il padiglione;;;;;;;;x
+String_IT_palace_IlLa;;;;;;il palazzo;;;;;;;;x
+String_IT_longhouse_DelDella;;;;;;della casa lunga;;;;;;;;x
+String_IT_pavillion_DelDella;;;;;;del padiglione;;;;;;;;x
+String_IT_palace_DelDella;;;;;;del palazzo;;;;;;;;x
+### GetRealmDelDella
+String_IT_GetRealmDelDella_Empire;;;;;;dell'impero;;;;;;;;x
+String_IT_GetRealmDelDella_Kingdom;;;;;;del regno;;;;;;;;x
+String_IT_GetRealmDelDella_Duchy;;;;;;del ducato;;;;;;;;x
+String_IT_GetRealmDelDella_County;;;;;;della contea;;;;;;;;x
+### Alternativo per gli insulti
+String_IT_GetVegetalIncapaz_male;;;;;;vegetale;;;;;;;;x
+String_IT_GetVegetalIncapaz_female;;;;;;incapace;;;;;;;;x
+String_IT_GetPiojoPulga_male;;;;;;pidocchio;;;;;;;;x
+String_IT_GetPiojoPulga_female;;;;;;pulce;;;;;;;;x
+### Fallback text
+String_IT_FALLBACK_GetCapitalHoldingAlAlla;;;;;;al [This.GetCapitalHolding];;;;;;;;x
+String_IT_FALLBACK_GetCapitalHoldingDelDella;;;;;;del [This.GetCapitalHolding];;;;;;;;x
+String_IT_FALLBACK_GetComplimentAdjectiveMaschileFemminile;;;;;;[This.GetComplimentAdjective];;;;;;;;x
+String_IT_FALLBACK_GetComplimentAdjectivePlFemminile;;;;;;[This.GetComplimentAdjective];;;;;;;;x
+String_IT_FALLBACK_GetCultureMaschile;;;;;;[This.Culture.GetName];;;;;;;;x
+String_IT_FALLBACK_GetCultureFemminile;;;;;;[This.Culture.GetName];;;;;;;;x
+String_IT_FALLBACK_GetCulturePlFemminile;;;;;;[This.Culture.GetName];;;;;;;;x
+String_IT_FALLBACK_GetCulturePlMaschile;;;;;;[This.Culture.GetName];;;;;;;;x
+String_IT_FALLBACK_Get_DelDella_Society;;;;;;[This.Society.GetName];;;;;;;;x
+String_IT_FALLBACK_GetDWDevilDelDella;;;;;;del [This.GetDWDevil];;;;;;;;x
+String_IT_FALLBACK_GetDWSettlementAlAlla;;;;;;al [This.GetDWSettlement];;;;;;;;x
+String_IT_FALLBACK_GetEvilGodLaLe;;;;;;[This.Religion.GetRandomEvilGodName];;;;;;;;x
+String_IT_FALLBACK_GetEvilGodDelleDegli;;;;;;del [This.Religion.GetRandomEvilGodName];;;;;;;;x
+String_IT_FALLBACK_GetGovernmentMaschile;;;;;;[This.Government.GetName];;;;;;;;x
+String_IT_FALLBACK_GetGovernmentFemminile;;;;;;[This.Government.GetName];;;;;;;;x
+String_IT_FALLBACK_GetGovernmentIlLaCap;;;;;;il [This.Government.GetName];;;;;;;;x
+String_IT_FALLBACK_GetHoldingDelDella;;;;;;del [This.GetHolding];;;;;;;;x
+String_IT_FALLBACK_GetHouseOfWorshipDelDella;;;;;;del [This.GetHouseOfWorship];;;;;;;;x
+String_IT_FALLBACK_GetHouseOfWorshipUnUna;;;;;;un [This.GetHouseOfWorship];;;;;;;;x
+String_IT_FALLBACK_GetReligionMaschile;;;;;;[This.Religion.GetName];;;;;;;;x
+String_IT_FALLBACK_GetReligionMaschileFemminile;;;;;;[This.Religion.GetName];;;;;;;;x
+String_IT_FALLBACK_GetReligionMaschilePl;;;;;;[This.Religion.GetName];;;;;;;;x
+String_IT_FALLBACK_GetReligionFemminilePl;;;;;;[This.Religion.GetName];;;;;;;;x
+String_IT_FALLBACK_GetReligiousGroupFemminile;;;;;;[This.Religion.GetGroupName];;;;;;;;x
+String_IT_FALLBACK_GetReligiousGroupMaschileFemminile;;;;;;[This.Religion.GetGroupName];;;;;;;;x
+String_IT_FALLBACK_GetReligiousPersonFemminile;;;;;;[This.GetReligiousPerson];;;;;;;;x
+String_IT_FALLBACK_GetReligiousPersonMaschileFemminile;;;;;;[This.GetReligiousPerson];;;;;;
+String_IT_FALLBACK_GetTrueReligionScriptureNameDelleDella;;;;;;delle Scritture [This.GetTrueReligionScriptureName];;;;;;
