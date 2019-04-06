@@ -1,19 +1,19 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;ITALIAN;;;;;;;;x
-MOVEMENT_SPEED;Movement Speed;Vitesse de dÈplacement;Bewegungsgeschwindigkeit;;Velocidad de movimiento;Velocit‡ di movimento;;;;;;;;x
-EXPERIMENTALITY;Experimentality;ImprÈvisibilitÈ;Unberechenbarkeit;;Imprevisibilidad;Imprevedibilit‡;;;;;;;;x
-CU_LIGHT_INFANTRY;Light Foot Troops;Infanterie lÈgËre;Leichte Infanterie;;InfanterÌa ligera;Fanteria Leggera;;;;;;;;x
-CU_HEAVY_INFANTRY;Heavy Foot Troops;Infanterie lourde;Schwere Infanterie;;InfanterÌa pesada;Fanteria Pesante;;;;;;;;x
-CU_CAVALRY;Mounted Troops;Cavalerie;Kavallerie;;CaballerÌa;Cavalleria;;;;;;;;x
+MOVEMENT_SPEED;Movement Speed;Vitesse de dùplacement;Bewegungsgeschwindigkeit;;Velocidad de movimiento;Velocitù di movimento;;;;;;;;x
+EXPERIMENTALITY;Experimentality;Imprùvisibilitù;Unberechenbarkeit;;Imprevisibilidad;Imprevedibilitù;;;;;;;;x
+CU_LIGHT_INFANTRY;Light Foot Troops;Infanterie lùgùre;Leichte Infanterie;;Infanterùa ligera;Fanteria Leggera;;;;;;;;x
+CU_HEAVY_INFANTRY;Heavy Foot Troops;Infanterie lourde;Schwere Infanterie;;Infanterùa pesada;Fanteria Pesante;;;;;;;;x
+CU_CAVALRY;Mounted Troops;Cavalerie;Kavallerie;;Caballerùa;Cavalleria;;;;;;;;x
 MORALE_DEFENCE;Morale Defence;Maintien du moral;Verteidigungsmoral;;Moral defensa;Morale della Difesa;;;;;;;;x
-DAMAGE;Damage;DÈg‚ts;Schaden;;DaÒo;Danno;;;;;;;;x
-PURSUIT;Pursuit;Poursuite;Verfolgung;;PersecuciÛn;Inseguimento;;;;;;;;x
-RETREAT;Retreat;Retraite;R¸ckzug;;Retirada;Ritirata;;;;;;;;x
+DAMAGE;Damage;Dùgùts;Schaden;;Daùo;Danno;;;;;;;;x
+PURSUIT;Pursuit;Poursuite;Verfolgung;;Persecuciùn;Inseguimento;;;;;;;;x
+RETREAT;Retreat;Retraite;Rùckzug;;Retirada;Ritirata;;;;;;;;x
 MARTIAL_INFLUENCE;Martial Influence;Influence martiale;Einfluss der Kriegskunst;;Influencia marcial;Effetto della Competenza Militare;;;;;;;;x
 FLANKING;Flanking;Attaque sur le flanc;Flankenangriff;;Flanqueo;Aggiramento;;;;;;;;x
-CENTER;Leading the Center;MËne le centre;F¸hrung im Zentrum;;Dirigiendo el centro;Comandante del Centro;;;;;;;;x
-DEFENCE;Defence;DÈfense;Verteidigung;;Defensa;Difesa;;;;;;;;x
-CANNOT_PLAY_MUSLIM_WITHOUT_DLC;You cannot play Muslim without The Sword of Islam DLC;Vous ne pouvez jouer un seigneur musulman sans le DLC 'Sword of Islam';Das Spielen als Muslim ist ohne das DLC ßYSword of Islamß! nicht mˆglich;;No puedes jugar como musulm·n sin el DLC The Sword of Islam;Non puoi giocare con i personaggi Musulmani senza il DLC Sword of Islam;;;;;;;;x
-NOT_ALLOWED_MUSLIM;Not allowed to play ßYMuslimß! without The Sword of Islam DLC!;N'est pas autorisÈ ‡ jouer ßYun seigneur musulmanß! sans le DLC 'Sword of Islam';Spielen als ßYMuslimß! ist ohne das DLC ßYSword of Islamß! nicht erlaubt!;;°No se te permite jugar como ßYmusulm·nß! sin el DLC The Sword of Islam!;Non Ë permesso giocare nelle vesti di un ßYSignore Musulmanoß! senza il DLC Sword of Islam!;;;;;;;;x
-NOT_ALLOWED_MUSLIM_MP;ßY$PLAYER$ß! not allowed to play ßYMuslimß! without The Sword of Islam DLC;Il n'est pas permis ‡ ßY$PLAYER$ß! de jouer ßYun seigneur musulmanß! sans le DLC 'Sword of Islam';ßY$PLAYER$ß! ist nicht erlaubt als ßYMuslimß! ohne das DLC ßYSword of Islamß! zu spielen;;ßY$PLAYER$ß! no puede jugar como ßYmusulm·nß! sin el DLC The Sword of Islam!;ßY$PLAYER$ß! non Ë autorizzato a giocare nelle vesti di ßYSignore Musulmanoß! senza il DLC Sword of Islam;;;;;;;;x
-RD_NOT_PLAYABLE_WITHOUT_MUSLIM_DLC;Muslims are not playable without The Sword of Islam DLC;Les musulmans ne sont pas jouables sans le DLC 'Sword of Islam';Muslime sind ohne das DLC ßYSword of Islamß! nicht spielbar;;No se puede jugar con musulmanes sin el DLC The Sword of Islam;I Personaggi Musulmani non sono giocabili senza il DLC Sword of Islam;;;;;;;;x
-MUST_SELECT_PLAYER;Must select a Character to play!;Vous devez sÈlectionner un personnage pour jouer;Sie m¸ssen einen Charakter ausw‰hlen um zu spielen!;;°Debes elegir un personaje para jugar!;Devi selezionare un Personaggio per giocare!;;;;;;;;x
+CENTER;Leading the Center;Mùne le centre;Fùhrung im Zentrum;;Dirigiendo el centro;Comandante del Centro;;;;;;;;x
+DEFENCE;Defence;Dùfense;Verteidigung;;Defensa;Difesa;;;;;;;;x
+CANNOT_PLAY_MUSLIM_WITHOUT_DLC;You cannot play Muslim without The Sword of Islam DLC;Vous ne pouvez jouer un seigneur musulman sans le DLC 'Sword of Islam';Das Spielen als Muslim ist ohne das DLC ùYSword of Islamù! nicht mùglich;;No puedes jugar como musulmùn sin el DLC The Sword of Islam;Non puoi giocare con i personaggi Musulmani senza il DLC Sword of Islam;;;;;;;;x
+NOT_ALLOWED_MUSLIM;Not allowed to play ùYMuslimù! without The Sword of Islam DLC!;N'est pas autorisù ù jouer ùYun seigneur musulmanù! sans le DLC 'Sword of Islam';Spielen als ùYMuslimù! ist ohne das DLC ùYSword of Islamù! nicht erlaubt!;;ùNo se te permite jugar como ùYmusulmùnù! sin el DLC The Sword of Islam!;Non ù permesso giocare nelle vesti di un ùYSignore Musulmanoù! senza il DLC Sword of Islam!;;;;;;;;x
+NOT_ALLOWED_MUSLIM_MP;ùY$PLAYER$ù! not allowed to play ùYMuslimù! without The Sword of Islam DLC;Il n'est pas permis ù ùY$PLAYER$ù! de jouer ùYun seigneur musulmanù! sans le DLC 'Sword of Islam';ùY$PLAYER$ù! ist nicht erlaubt als ùYMuslimù! ohne das DLC ùYSword of Islamù! zu spielen;;ùY$PLAYER$ù! no puede jugar como ùYmusulmùnù! sin el DLC The Sword of Islam!;ùY$PLAYER$ù! non ù autorizzato a giocare nelle vesti di ùYSignore Musulmanoù! senza il DLC Sword of Islam;;;;;;;;x
+RD_NOT_PLAYABLE_WITHOUT_MUSLIM_DLC;Muslims are not playable without The Sword of Islam DLC;Les musulmans ne sont pas jouables sans le DLC 'Sword of Islam';Muslime sind ohne das DLC ùYSword of Islamù! nicht spielbar;;No se puede jugar con musulmanes sin el DLC The Sword of Islam;I Personaggi Musulmani non sono giocabili senza il DLC Sword of Islam;;;;;;;;x
+MUST_SELECT_PLAYER;Must select a Character to play!;Vous devez sùlectionner un personnage pour jouer;Sie mùssen einen Charakter auswùhlen um zu spielen!;;ùDebes elegir un personaje para jugar!;Devi selezionare un Personaggio per giocare!;;;;;;;;x
