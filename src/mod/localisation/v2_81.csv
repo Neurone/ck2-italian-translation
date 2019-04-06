@@ -1,0 +1,246 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;ITALIAN;;;;;;;;x
+EVTDESC_JD_10020;When I first did not hear anything from [adventurous_spirit.GetTitledFirstName], I simply assumed that [adventurous_spirit.GetHerHis] journey back home had been delayed. Sadly, I have now formally received word from [the_protector_general.GetTitledName] of [adventurous_spirit.GetHerHis] passing.;Au début, lorsque je n'avais plus de nouvelles [adventurous_spirit.Get_du_TitledFirstName], j'ai simplement pensé que son voyage de retour avait été reporté. Malheureusement, j'ai appris [the_protector_general.GetDuDela] [the_protector_general.GetTitledName] qu'[adventurous_spirit.GetIlElle] a trépassé.;Als ich zuerst nichts von [adventurous_spirit.GetTitledFirstName] hörte, dachte ich einfach, dass [adventurous_spirit.GetSheHe] sich bei der Reise nach Hause verspätete. Leider habe ich nun eine Nachricht von [the_protector_general.GetTitledName] erhalten, dass [adventurous_spirit.GetSheHe] verstorben ist.;;Al no saber nada de [adventurous_spirit.GetTitledFirstName], supuse que había retrasado su viaje. Por desgracia, [the_protector_general.GetTitledName] acaba de informarme oficialmente de su fallecimiento.;All'inizio quando non ho più ricevuto notizie da [adventurous_spirit.GetTitledFirstName], ho semplicemente dato per scontato che il [adventurous_spirit.GetHerHis] viaggio di ritorno verso casa fosse stato rimandato. Purtroppo, ho appena appreso da [the_protector_general.GetTitledName] della [adventurous_spirit.GetHerHis] morte.;;;;x;;;;
+china_physician_cd;§YSent a Physician§!;§YA envoyé un physicien§!;§YArzt entsenden§!;;§Yenviaste un médico§!;§YInviato un Medico§!;;;;;;;;x
+china_physician_cd_desc;You have already sent a Physician to China, you will not be able to send another one.;Vous avez déjà envoyé un physicien à la Chine et ne pourrez plus en envoyer d'autres.;Ihr habt bereits einen Arzt nach China entsendet und könnt keinen weiteren senden;;Ya has enviado un médico a China, no podrás enviar otro.;Hai già inviato un Medico in Cina, non potrai inviarne un altro.;;;;;;;;x
+temple_barony_of_taoist;Temple of;Temple de;Tempel von;;Templo de;Tempio di;;;;;;;;x
+kow_tow_travels_death;during a journey to the Chinese Empire;durant un voyage dans l'Empire chinois;starb während einer Reise ins Chinesische Reich;;en un viaje al imperio chino;nel corso di un viaggio verso l'Impero Cinese;;;;;;;;x
+EVT_DESC_JD_60314;The [From.GetTitle] of the [From.Offmap.Ruler.GetChineseComplimentAdjective] [From.Offmap.Ruler.GetTitle] addresses a letter to the [Root.GetTitle] of the [Root.PrimaryTitle.GetFullName].\n\nYou squander the gifts of the heavenly [From.Offmap.Ruler.GetLongChineseEmperorName]. We know that the death of [FromFrom.GetChineseCharacterRole] [FromFrom.GetTitledName] was by your hands. Do not think that the [From.Offmap.Ruler.GetTitle] will look lightly upon this.;[From.Get_only_Le_Title][From.GetTitle] de l'[From.Offmap.Ruler.GetTitle] [From.Offmap.Ruler.GetChineseComplimentAdjective] adresse une lettre [Root.Get_only_au_Title][Root.GetTitle] [Root.PrimaryTitle.Get_du_RealmFull].\n\nVous avez gaspillé le cadeau de [From.Offmap.Ruler.GetLongChineseEmperorName]. Nous savons que la mort de votre [FromFrom.GetChineseCharacterRole] [FromFrom.GetTitledName] est de votre fait. N'imaginez pas que l'[From.Offmap.Ruler.GetTitle] prendra ceci à la légère.;[From.GetDerDie] [From.GetTitle] des [From.Offmap.Ruler.GetChineseComplimentAdjective]en [From.Offmap.Ruler.GetTitle] addressiert einen Brief an [Root.Getdendie] [Root.GetTitle] von [Root.PrimaryTitle.GetFullName].\n\nIhr vergeudet die Geschenkte [From.Offmap.Ruler.Getdesder] [From.Offmap.Ruler.GetLongChineseEmperorName][From.Offmap.Ruler.GetsMale]. Wir wissen, dass der Tod von [FromFrom.GetChineseCharacterRole] [FromFrom.GetTitledName] durch Eure Hände stattfand. Glaubt nicht, dass [From.Offmap.Ruler.Getderdie] [From.Offmap.Ruler.GetTitle] dies hinnehmen wird.;;El [From.GetTitle] del [From.Offmap.Ruler.GetChineseComplimentAdjective] [From.Offmap.Ruler.GetTitle] envía una carta al [Root.GetTitle] del [Root.PrimaryTitle.GetFullName].\n\nDerrochas los regalos del celestial [From.Offmap.Ruler.GetLongChineseEmperorName]. Hemos sabido que [FromFrom.GetChineseCharacterRole] [FromFrom.GetTitledName] murió a tus manos. No creas que el [From.Offmap.Ruler.GetTitle] se tomará esto a la ligera.;Il [From.GetTitle] del [From.Offmap.Ruler.GetChineseComplimentAdjective] [From.Offmap.Ruler.GetTitle] invia una lettera al [Root.GetTitle] del [Root.PrimaryTitle.GetFullName].\n\nHai sprecato i regali del celestiale [From.Offmap.Ruler.GetLongChineseEmperorName]. Siamo stati informati che la morte di [FromFrom.GetChineseCharacterRole] [FromFrom.GetTitledName] è avvenuta per mano tua. Non credere che il [From.Offmap.Ruler.GetTitle] prenderà questa cosa alla leggera.;;;;;;;;x
+hostages_random_imprisonment_tt;You will imprison a random §YClose Relative§! of the target.;Vous emprisonnerez un §Yproche parent§! aléatoire de la cible.;Ihr sperrt einen zufälligen §Ynahen Verwandten§! des Ziels ein.;;Encarcelas a un §Ypariente cercano§! cualquiera del objetivo.;Imprigionerai un §YParente Stretto§! a caso dell'obiettivo.;;;;;;;;x
+NOT_PACIFIED_BY_LIEGE_DATELESS;Not pacified by liege;Non pacifié par le seigneur lige;Nicht durch Lehnsherr befriedet;;No pacificado por su señor;Non pacificato dal signore;;;;;;;;x
+RULES_ACHIEVEMENT_REQUIRE_NO_RULER_DESIGNER;The §YRuler Designer§! cannot be used;Le §Ycréateur de personnage§! ne peut pas être utilisé;Der §YHerrscher-Baukasten§! kann nicht benutzt werden;;No se puede usar el §YDiseñador de gobernante§!;Il §YCreatore del Sovrano§! non può essere usato;;;;;;;;x
+IRONMAN_MODE_RULER_DESIGNER_DESC;The Ruler Designer is active, disabling achievements;Le créateur de personnage est actif, ce qui désactive les Succès Steam;Der Herrscher-Baukasten ist aktiv und deaktiviert Errungenschaften;;El Diseñador de gobernante está activo, lo que desactiva los logros.;Il Creatore del Sovrano è attivo, perciò gli obiettivi di Steam sono disabilitati;;;;;;;;x
+REQUIREMENTS_HEADER;§YRequirements§!:;§YPrérequis§!:;§YAnforderungen§!:;;§YRequisitos§!:;§YRequisiti§!:;;;;;;;;x
+TRADE_ROUTE_GLOBAL_VALUE_CHANGED;External factors chage the value of this trade route by $VALUE|+0%$.;Des facteurs externes modifient la valeur de cette route commerciale de $VALUE|+0%$.;Externe Faktoren ändern den Wert dieser Handelsroute um $VALUE|+0%$.;;Factores externos cambian el valor de esta ruta comercial en $VALUE| +0%$;Dei fattori esterni modificano il valore di questa rotta commerciale di $VALUE|+0%$.;;;;;;;;x
+chinese_grace_become_tributary_desc;Pledge your allegiance to §Y[Root.Offmap.Ruler.GetMediumChineseEmperorName]§!.;Jurer allégeance à l'§Y[Root.Offmap.Ruler.GetMediumChineseEmperorName]§!.;Schwört §Y[Root.Offmap.Ruler.GetMediumChineseEmperorName]§! die Treue.;;Jura lealtad a §Y[Root.Offmap.Ruler.GetMediumChineseEmperorName]§!.;Prometti la tua fedeltà a §Y[Root.Offmap.Ruler.GetMediumChineseEmperorName]§!.;;;;;;;;x
+chinese_grace_become_tributary_effect_TT;In exchange for §R50% income§!, §R30% troop reinforcement rate§! and §R[GetChineseOffmapTributaryPrestigeCost]§!, receive §G2 Grace per month§! and §Ga Chinese regiment to raise as the defender in a war§!.\nThese effects last until the end of the Empire's §Yruling dynasty§!, or until §Yyou declare independence§! (through war, or decision in the Intrigue screen).\n;En échange de §R50% des revenus§!, §R30% du taux de renforcement de troupes§! et §R[GetChineseOffmapTributaryPrestigeCost]§!, vous recevez §G2 Grâces par mois§! et §Gun régiment chinois levable en étant défenseur dans une guerre§!.\nCes effets durent jusqu'à la chute de la §Ydynastie régnante§! de l'Empire, ou jusqu'à que vous déclariez votre indépendance (par la guerre ou la décision).\n;Für §R50% Einkommen§!, §R30% Truppenverstärkungsrate§! und §R[GetChineseOffmapTributaryPrestigeCost]§! erhaltet Ihr §Gmonatlich 2 Gunst§! und §Gein chinesisches Regiment, das Ihr in einem Verteidigungskrieg ausheben könnt.§!\nDies hält bis zum §YEnde der herrschenden Dynastie§! im Reich an oder bis Ihr die §YUnabhängigkeit§! erklärt (Krieg oder Entscheidung).\n;;A cambio del §R50% de tus ingresos§!, el §R30% de refuerzos de leva§! y §R[GetChineseOffmapTributaryPrestigeCost]§! recibirás §G2 Gracia al mes§! y §Gpodrás reclutar un regimiento de tropas chinas cuando seas el defensor en una guerra§!.\nEstos efectos durarán hasta el fin de la §Ydinastía gobernante§! del Imperio o que §Ydeclares la independencia§! (mediante guerra o decisión en la pantalla de intriga).\n;In cambio del §R50% delle entrate§!, del §R30% tasso di rinforzo delle armate§! e del §R[GetChineseOffmapTributaryPrestigeCost]§!, riceverai §G2 Grazia al mese§! e §GUn reggimento Cinese da reclutare come difensore in una guerra§!.\nQuesti effetti durano fino alla fine della §YDinastia regnante§! dell'Impero, o fino a quando §Ytu non dichiarerai l'indipendenza§! (tramite la guerra, o la decisione nella Scheda degli Intrighi).\n;;;;;;;;x
+ENDGAME_TEXT_INDIAN;You gained an Eastern Religion and are therefore no longer allowed to continue playing without the Rajas Of India or Jade Dragon expansion.\n;Vous avez une religion orientale et ainsi n'êtes pas autorisé à continuer à jouer sans le DLC Rajas d'Inde ou Dragon de Jade.\n;Ihr habt eine östliche Religion erlangt und könnt ohne den DLC §YRajas of India§! oder §YJade Dragon§! nicht weiterspielen.;;Conseguiste una Religión Oriental y por tanto no se te permite seguir jugando sin la expansión Rajas of India o Jade Dragon.\n;Hai acquisito una Religione Orientale e quindi non sei più autorizzato a continuare a giocare senza il DLC Rajas Of India o il DLC Jade Dragon.\n;;;;;;;;x
+you_will_game_over_tt;§RThis will cause a GAME OVER, as you are not allowed to play this Religion!§!\n;§RVous perdrez la partie;§RDies wird zum Spielende führen, da es Euch nicht erlaubt ist, diese Religion zu spielen!§!\n;;§R¡Esto causará el FIN DE LA PARTIDA, porque no se te permite jugar esta religión!§!\n;§RQuesto causerà la FINE DELLA PARTITA, in quanto non ti è permesso giocare con questa Religione!§!\n;;;;;;;;x
+is_not_one_eyed_handed_legged_disfigured_or_mangled_tt;Is NOT §YOne-Eyed§!, §YOne-Handed§!, §YOne-Legged§!, §YDisfigured§!, or §YMangled§!\n;N'a aucun des traits §YBorgne§!, §YManchot§!, §YUnijambiste§!, §YDéfiguration§! ou §YMutilation§!\n;Ist NICHT §Yeinäugig§!, §Yeinhändig§!, §Yeinbeinig§!, §Yentstellt§! oder §Yübel zugerichtet§!\n;;NO es §Ytuerto§!, §Ymanco§!, §Ycojo§!, §Ydesfigurado§! o §Ylisiado§!\n;NON è §YGuercio§!, §YMonco§!, §YZoppo§!, §YSfigurato§!, o §YStorpio§!\n;;;;;;;;x
+is_not_maimed_or_infirm_tt;Is NOT §YMaimed§! or §YInfirm§!\n;N'a pas le trait §YMutilation§! ni §YInfirmité§!\n;Ist NICHT §Yverstümmelt§! oder §Ygebrechlich§!\n;;NO es §Ymutilado§! o §Yenfermizo§!\n;NON è §YMenomato§! o §YInfermo§!\n;;;;;;;;x
+is_not_wounded_severely_injured_tt;Is NOT §YWounded§! or §YSeverely Injured§!\n;N'a pas le trait §YBlessure§! ni §YBlessure grave§!\n;Ist NICHT §Yverwundet§! oder §Yschwer verletzt§!\n;;NO está §Yherido§! ni §Ygravemente herido§!;NON è §YFerito§! o §YGravemente Ferito§!\n;;;;;;;;x
+EVTTOOLTIP100201;You ask your friend to help you refine your skills in swordsmanship\n;Vous demandez à votre ami d'améliorer votre maniement de l'épée\n;Ihr bittet Euren Freund, Euch zu helfen und so Eure Fähigkeiten in der Schwertkunst zu verfeinern\n;;Pides a tu amigo que te ayude a pulir tu habilidades de esgrima.\n;Chiedi al tuo amico di aiutarti a perfezionare le tue abilità nell'uso della spada\n;;;;;;;;x
+String_personality_old_and_wistful;how old age often makes one wish for times long gone;d'à quel point la vieillesse rend nostalgique;das Alter und das man sich mehr und mehr die alten Zeiten zurücksehnt;;cómo la edad nos hace añorar tiempos pasados;da quale momento la vecchiaia rende nostalgici;;;;;;;;x
+String_personality_young_cynics;how regressive it can feel to discuss politics with the older generation;d'à quel point discuter politique avec l'ancienne génération est dégradant;das Diskutieren der Politik mit älteren Generationen und wie regressiv es sich anfühlen kann;;lo regresivo que resulta hablar de política con la vieja guardia;da quale momento discutere di politica con la generazione passata è degradante;;;;;;;;x
+String_personality_same_society;the various things we get up to, as members of [This.Society.GetName];des diverses choses que nous faisons en tant que membres [This.Get_du_Society];die verschiedenen Dinge, die wir als Mitglieder von [This.Society.GetName] durchleben;;las cosas a las que hay que adaptarse como miembros de [This.Society.GetName];le diverse cose che otteniamo, come membri della [This.Society.GetName];;;;;;;;x
+String_personality_focus_war;our mutual fascination for battle and strategy;de notre fascination mutuelle pour les batailles et la stratégie;unsere gegenseitige Faszination für Kampf und Strategie;;nuestra fascinación mutua por batallas y estrategias;del nostro interesse comune per la battaglia e la strategia;;;;;;;;x
+String_personality_focus_hunting;the thrill of hunting, and the outdoors life;du frisson que procure la chasse, et de la vie au grand air;den Nervenkitzel der Jagd und das Leben im Freien;;la emoción de la caza y la vida al aire libre;del brivido della caccia e della vita all'aria aperta;;;;;;;;x
+String_personality_focus_seduction;the undeniable excitement and joy one gets from pursuing one's true passions, in this earthly life;de l'excitation indéniable de suivre ses passions durant sa vie terrestre;die unleugbare Aufregung und Freude, die man aus der Verfolgung seiner wahren Leidenschaften in seinem irdischen Leben zieht;;la innegable emoción y alegría que sentimos al dedicarnos a nuestras auténticas pasiones en esta vida terrena;dell'innegabile emozione e della gioia che si prova dal perseguire le proprie vere passioni, in questa vita terrena;;;;;;;;x
+String_personality_focus_intrigue;the intrigues at court, and an enticing rumor about a certain foreign diplomat;d'intrigues à la cour et de la rumeur sur un diplomate étranger;die Intrigen am Hof und Gerüchte über einen bestimmten ausländischen Diplomaten;;las intrigas en la corte y un interesante rumor sobre cierto diplomático extranjero;degli intrighi a corte e di quella notizia intrigante riguardo ad un certo diplomatico straniero;;;;;;;;x
+String_personality_focus_carousing;everything that supposedly, and actually, can happen during an extravagant feast;de tout ce qui peut arriver pendant un somptueux banquet;alles, was angeblich und tatsächlich während eines extravaganten Festes geschehen kann;;todo lo que se supone que puede pasar y pasa durante un banquete extravagante;di tutto ciò che presumibilmente, e in realtà, può accadere durante una festa sontuosa;;;;;;;;x
+String_personality_focus_family;the value of kinship, and the importance of family;de l'importance de la famille;den Wert von Verwandtschaft und die Bedeutung der Familie;;el valor del parentesco y la importancia de la familia;del valore della parentela e dell'importanza della famiglia;;;;;;;;x
+String_personality_focus_theology;ways to interpret a holy text, and the comforting aspects of faith;des différences interprétations d'un texte sacré, et des aspects réconfortants de la foi;die Wege, einen heiligen Text zu interpretieren und die tröstenden Aspekte des Glaubens;;cómo interpretar un texto sagrado y los aspectos reconfortantes de la fe;dei modi di interpretare un testo sacro e degli aspetti confortanti della fede;;;;;;;;x
+String_personality_focus_scholarship;human curiosity, and the sometimes debated concept of [Root.Religion.GetHighGodName];de la curiosité humaine et du concept parfois débattu [Root.Get_du_HighGod];die menschliche Neugier und das manchmal zwiespältige Konzept von [Root.Religion.GetHighGodName];;la curiosidad humana y el concepto a veces debatido de [Root.Religion.GetHighGodName];della curiosità umana e del concetto a volte discusso riguardo a [Root.Religion.GetHighGodName];;;;;;;;x
+String_personality_focus_rulership;the sometimes thankless effort of trying to do right by your administration, as well as your people;des efforts parfois vains visant à faire au mieux pour l'administration et le peuple;die manchmal undankbaren Bemühungen, sowohl den Verwaltern als auch dem Volk zu gefallen;;el esfuerzo a veces ingrato por intentar hacer lo correcto en nuestra administración, o en nuestro pueblo;dello sforzo, a volte vano, di provare a fare del nostro meglio per la nostra amministrazione, così come per il nostro popolo;;;;;;;;x
+String_personality_focus_business;the intricacies of a well functioning administration, and the skill of delegating;de la complexité d'une administration performante, et de la capacité à déléguer;die Feinheiten einer gut funktionierenden Verwaltung und die Fähigkeit des Delegierens;;las complejidades de una administración que funciona bien, y la habilidad de delegar;delle complessità di un'amministrazione efficiente e della capacità di delegare;;;;;;;;x
+String_personality_same_culture;the finer points of [Root.Culture.GetName] culture and etiquette;des subtilités de la culture [Root.Culture.GetName];die exquisiteren Punkte in der [Root.Culture.GetName]en Kultur und Etikette;;los mejores aspectos de la cultura y la etiqueta [Root.Culture.GetName];degli aspetti migliori della cultura e del protocollo [Root.Culture.GetName];;;;;;;;x
+String_personality_same_religion;the [Root.Religion.GetName] faith, and our favorite hymns;de la religion [Root.Religion.GetName], et de nos cantiques préférés;den [Root.Religion.GetName]en Glauben und unsere Lieblings-Verse;;la fe [Root.Religion.GetName] y nuestros cánticos favoritos;della fede [Root.Religion.GetName], e dei nostri inni preferiti;;;;;;;;x
+String_personality_landscape;the landscape of [Root.PrimaryTitle.GetName], and particularly around [Root.Capital.GetName];des paysages [Root.PrimaryTitle.Get_en_Realm], en particulier près de [Root.Capital.GetName];die Landschaft von [Root.PrimaryTitle.GetName] und besonders um [Root.Capital.GetName] herum;;el paisaje de [Root.PrimaryTitle.GetName] y en especial el que rodea a [Root.Capital.GetName];del paesaggio di [Root.PrimaryTitle.GetName], ed in particolare quello nei pressi di [Root.Capital.GetName];;;;;;;;x
+String_personality_artifacts;the beauty of old things, and the many trinkets we keep in our treasuries;de la beauté des choses anciennes, et des bibelots que nous gardons comme trésors;die Schönheit alter Dinge und die vielen Schmuckstücke, die wir in unseren Schatzkammern aufbewahren;;la belleza de las cosas antiguas y las baratijas que guardamos en nuestros tesoros.;della bellezza delle cose antiche e delle tante cianfrusaglie che conserviamo nei nostri tesori;;;;;;;;x
+b_trinabad;Trinabad;;;;;Trinabad;;;;;;;;x
+b_dusajabad;Dusajabad;;;;;Dusajabad;;;;;;;;x
+b_ragnagar;Ragnagar;;;;;Ragnagar;;;;;;;;x
+b_skanderabad;Skanderabad;;;;;Skanderabad;;;;;;;;x
+b_ake;Ake;;;;;Ake;;;;;;;;x
+b_shagkol;Shagkol;;;;;Shagkol;;;;;;;;x
+b_zhezgir;Zhezgir;;;;;Zhezgir;;;;;;;;x
+b_traguladar;Traguladar;;;;;Traguladar;;;;;;;;x
+b_krossa;Krossa;;;;;Krossa;;;;;;;;x
+b_mosa;Mosa;;;;;Mosa;;;;;;;;x
+b_kidako;Kidako;;;;;Kidako;;;;;;;;x
+b_eskako;Eskako;;;;;Eskako;;;;;;;;x
+b_sinnele;Sinnele;;;;;Sinnele;;;;;;;;x
+b_kanbale;Kanbale;;;;;Kanbale;;;;;;;;x
+b_shihak;Shihak;;;;;Shihak;;;;;;;;x
+b_shilif;Shilif;;;;;Shilif;;;;;;;;x
+b_ketino;Ketino;;;;;Ketino;;;;;;;;x
+b_alchach;Alchach;;;;;Alchach;;;;;;;;x
+b_manzhar;Manzhar;;;;;Manzhar;;;;;;;;x
+b_ayzhar;Ayzhar;;;;;Ayzhar;;;;;;;;x
+b_kusma;Kusma;;;;;Kusma;;;;;;;;x
+b_kipgaj;Kipgaj;;;;;Kipgaj;;;;;;;;x
+b_gerghas;Gerghas;;;;;Gerghas;;;;;;;;x
+b_sarel;Sarel;;;;;Sarel;;;;;;;;x
+b_ichga;Ichga;;;;;Ichga;;;;;;;;x
+b_wadane;Wadane;;;;;Wadane;;;;;;;;x
+b_kaliki;Kaliki;;;;;Kaliki;;;;;;;;x
+b_gag;Gag;;;;;Gag;;;;;;;;x
+b_aziz;Aziz;;;;;Aziz;;;;;;;;x
+b_aruz;Aruz;;;;;Aruz;;;;;;;;x
+b_uros;Uros;;;;;Uros;;;;;;;;x
+b_ulsut;Ulsut;;;;;Ulsut;;;;;;;;x
+b_mamshim;Mamshim;;;;;Mamshim;;;;;;;;x
+b_esut;Esut;;;;;Esut;;;;;;;;x
+b_urlyki;Urlyki;;;;;Urlyki;;;;;;;;x
+b_dralyk;Dralyk;;;;;Dralyk;;;;;;;;x
+b_mankal;Mankal;;;;;Mankal;;;;;;;;x
+b_jutasu;Jutasu;;;;;Jutasu;;;;;;;;x
+b_opak;Opak;;;;;Opak;;;;;;;;x
+b_tenul;Tenul;;;;;Tenul;;;;;;;;x
+b_offerdal;Offerdal;;;;;Offerdal;;;;;;;;x
+b_gene;Gene;;;;;Gene;;;;;;;;x
+b_brunflo;Brunflo;;;;;Brunflo;;;;;;;;x
+b_borgvattnet;Borgvattnet;;;;;Borgvattnet;;;;;;;;x
+b_ulvkalla;Ulvkälla;;;;;Ulvkälla;;;;;;;;x
+b_vemdalen;Vemdalen;;;;;Vemdalen;;;;;;;;x
+b_ljusnedal;Ljusnedal;;;;;Ljusnedal;;;;;;;;x
+b_lillhardal;Lillhärdal;;;;;Lillhärdal;;;;;;;;x
+b_ymanda;Ymanda;;;;;Ymanda;;;;;;;;x
+b_langi;Langi;;;;;Langi;;;;;;;;x
+b_afgilai;Afgilai;;;;;Afgilai;;;;;;;;x
+b_amandawar;Amandawar;;;;;Amandawar;;;;;;;;x
+b_obora;Obora;;;;;Obora;;;;;;;;x
+b_tora;Tora;;;;;Tora;;;;;;;;x
+b_mangalam;Mangalam;;;;;Mangalam;;;;;;;;x
+b_abetam;Abetam;;;;;Abetam;;;;;;;;x
+b_yrgo;Yrgo;;;;;Yrgo;;;;;;;;x
+b_halogo;Halogo;;;;;Halogo;;;;;;;;x
+b_wagulo;Wagulo;;;;;Wagulo;;;;;;;;x
+b_zenande;Zenande;;;;;Zenande;;;;;;;;x
+b_aleksandr;Aleksandr;;;;;Aleksandr;;;;;;;;x
+b_vugimsk;Vugimsk;;;;;Vugimsk;;;;;;;;x
+b_imaslavl;Imaslavl;;;;;Imaslavl;;;;;;;;x
+b_kankol;Kankol;;;;;Kankol;;;;;;;;x
+b_illyoml;Illyoml;;;;;Illyoml;;;;;;;;x
+b_mashinki;Mashinki;;;;;Mashinki;;;;;;;;x
+b_paskaki;Paskaki;;;;;Paskaki;;;;;;;;x
+b_novomory;Novomory;;;;;Novomory;;;;;;;;x
+b_kirou;Kirou;;;;;Kirou;;;;;;;;x
+PROV1581;Dobrzyn;;;;;Dobrzyn;;;;;;;;x
+c_dobrzynska_adj;Dobrzynska;dobrzynska;;;;Dobrzynska;;;;;;;;x
+PROV1582;Sieradz;;;;;Sieradz;;;;;;;;x
+c_sieradzka_adj;Sieradzka;sieradzka;;;;Sieradzka;;;;;;;;x
+PROV1583;Lomza;;;;;Lomza;;;;;;;;x
+c_lomzynska_adj;Lomzynska;lomzynska;;;;Lomzynska;;;;;;;;x
+PROV1584;Stezyca;;;;;Stezyca;;;;;;;;x
+c_stezycka_adj;Stezycka;stezycka;;;;Stezycka;;;;;;;;x
+PROV1585;Lublin;;;;;Lublin;;;;;;;;x
+c_lubelska_adj;Lubelska;lubelska;;;;Lubelska;;;;;;;;x
+PROV1586;Wielun;;;;;Wielun;;;;;;;;x
+c_wielunska_adj;Wielunska;wielunska;;;;Wielunska;;;;;;;;x
+PROV435;Wroclaw;Wroclaw;Wroclaw;;Breslavia;Wroclaw;;;;;;;;x
+c_upper_silesia_adj;Wroclawa;wroclaw;;;;Wroclawa;;;;;;;;x
+PROV433;Upper Silesia;Haute-Silésie;Unterschlesien;;Alta Silesia;Upper Silesia;;;;;;;;x
+c_opole_adj;Upper Silesian;haute-silésienne;Oberschlesisch;;Altosilesiano;Upper Silesian;;;;;;;;x
+PROV429;Naklo;;;;;Naklo;;;;;;;;x
+c_gnieznienskie_adj;Naklan;naklo;;;;Naklan;;;;;;;;x
+PROV528;Gostynin;Gostynin;Gostynin;;Gostynin;Gostynin;;;;;;;;x
+c_sieradzko-leczyckie_adj;Gostynian;gostynienne;Gostyninisch;;Costynianés;Gostynian;;;;;;;;x
+PROV530;Liw;;;;;Liw;;;;;;;;x
+c_czersk_adj;Czerskian;czerskienne;Czerskisch;;Czerskianés;Czerskian;;;;;;;;x
+b_wyszogrod;Wyszogrod;;;;;Wyszogrod;;;;;;;;x
+b_zacroczym;Zakroczym;;;;;Zakroczym;;;;;;;;"x	#Typo fixed from ""Zacroczym"" to ""Zakroczym"""
+b_rozan;Rozan;;;;;Rozan;;;;;;;;x
+b_szrensk;Szrensk;;;;;Szrensk;;;;;;;;x
+b_liw;Liw;;;;;Liw;;;;;;;;x
+b_wegrow;Wegrow;;;;;Wegrow;;;;;;;;x
+b_legionowo;Legionowo;;;;;Legionowo;;;;;;;;x
+b_lochow;Lochow;;;;;Lochow;;;;;;;;x
+b_tluszoz;Tluszcz;;;;;Tluszcz;;;;;;;;x
+b_radzymin;Radzymin;;;;;Radzymin;;;;;;;;x
+b_wizna;Wizna;;;;;Wizna;;;;;;;;x
+b_swieck;Swieck;;;;;Swieck;;;;;;;;x
+b_nur;Nur;;;;;Nur;;;;;;;;x
+b_radzilow;Radzilow;;;;;Radzilow;;;;;;;;x
+b_lowicz;Lowicz;;;;;Lowicz;;;;;;;;x
+b_gostynin;Gostynin;;;;;Gostynin;;;;;;;;x
+b_rawska;Rawa;;;;;Rawa;;;;;;;;"x			#Renamed to ""Rawa"" with HF"
+b_nadodra;Nadodra;;;;;Nadodra;;;;;;;;x
+b_kamien;Kamien;;;;;Kamien;;;;;;;;x
+b_kcynia;Kcynia;;;;;Kcynia;;;;;;;;x
+b_pila;Pila;;;;;Pila;;;;;;;;x
+b_lubiewo;Lubiewo;;;;;Lubiewo;;;;;;;;x
+b_podgaje;Podgaje;;;;;Podgaje;;;;;;;;x
+b_bialaziema;Bialaziema;;;;;Bialaziema;;;;;;;;x
+b_oborniki;Oborniki;;;;;Oborniki;;;;;;;;x
+b_czarnkow;Czarknow;;;;;Czarknow;;;;;;;;x
+b_koscian;Koscian;;;;;Koscian;;;;;;;;x
+b_miedzyrzecz;Miedzyrzecz;;;;;Miedzyrzecz;;;;;;;;x
+b_walcz;Walcz;;;;;Walcz;;;;;;;;x
+b_wschowa;Wschowa;;;;;Wschowa;;;;;;;;x
+b_sroda;Sroda;;;;;Sroda;;;;;;;;x
+b_kolo;Kolo;;;;;Kolo;;;;;;;;x
+b_kozmin;Kozmin;;;;;Kozmin;;;;;;;;x
+b_nowogrod;Nowogrod;;;;;Nowogrod;;;;;;;;x
+b_swiebozin;Swiebodzin;;;;;Swiebodzin;;;;;;;;x
+b_bytomodrz;Bytom Odrzanski;;;;;Bytom Odrzanski;;;;;;;;x
+b_lubliniec;Lubliniec;;;;;Lubliniec;;;;;;;;x
+b_rybnik;Rybnik;;;;;Rybnik;;;;;;;;x
+b_siewerz;Siewerz;;;;;Siewerz;;;;;;;;x
+b_zywiec;Zywiec;;;;;Zywiec;;;;;;;;x
+b_bielsko;Bielsko;;;;;Bielsko;;;;;;;;x
+b_pszczyna;Pszczyna;;;;;Pszczyna;;;;;;;;x
+b_zator;Zator;;;;;Zator;;;;;;;;x
+b_wieliczka;Wieliczka;;;;;Wieliczka;;;;;;;;x
+b_bochnia;Bochnia;;;;;Bochnia;;;;;;;;x
+b_olsztyn;Olsztyn;;;;;Olsztyn;;;;;;;;x
+b_pilzno;Pilzno;;;;;Pilzno;;;;;;;;x
+b_mielec;Mielec;;;;;Mielec;;;;;;;;x
+b_biecz;Biecz;;;;;Biecz;;;;;;;;x
+b_olescnica;Ilza;;;;;Ilza;;;;;;;;"x	#Renamed to ""Ilza"" in HF as it makes more sense"
+b_wislica;Wislica;;;;;Wislica;;;;;;;;x
+b_opoczno;Opoczno;;;;;Opoczno;;;;;;;;x
+b_opatow;Opatow;;;;;Opatow;;;;;;;;x
+b_urzedow;Urzedow;;;;;Urzedow;;;;;;;;x
+b_goraj;Goraj;;;;;Goraj;;;;;;;;x
+b_zamosc;Zamosc;;;;;Zamosc;;;;;;;;x
+b_podwieprza;Leczna;;;;;Leczna;;;;;;;;"x			#Fictional name replaced with historically accurate"
+b_nadwisla;Kazimierz Dolny;;;;;Kazimierz Dolny;;;;;;;;"x	#Fictional name replaced with historically accurate"
+b_stezyca;Stezyca;;;;;Stezyca;;;;;;;;x
+b_lukow;Lukow;;;;;Lukow;;;;;;;;x
+b_kock;Kock;;;;;Kock;;;;;;;;x
+b_ryki;Ryki;;;;;Ryki;;;;;;;;x
+b_deblin;Deblin;;;;;Deblin;;;;;;;;x
+b_radzyn;Radzyn;;;;;Radzyn;;;;;;;;x
+b_stoczeklukowski;Stoczek Lukowski;;;;;Stoczek Lukowski;;;;;;;;x
+b_bygdoszcz;Bygdoszcz;;;;;Bygdoszcz;;;;;;;;x
+b_leczyca;Leczyca;;;;;Leczyca;;;;;;;;x
+b_klodawa;Klodawa;;;;;Klodawa;;;;;;;;x
+b_nieszawa;Nieszawa;;;;;Nieszawa;;;;;;;;x
+b_dobrzyn;Dobrzyn;;;;;Dobrzyn;;;;;;;;x
+b_wloclawek;Ostrowite;;;;;Ostrowite;;;;;;;;"x		#Wloclawek was on the wrong side of the river, so reneamed to a lake name instead"
+b_lipno;Lipno;;;;;Lipno;;;;;;;;x
+b_rypin;Rypin;;;;;Rypin;;;;;;;;x
+b_skepe;Skepe;;;;;Skepe;;;;;;;;x
+b_michalowo;Michalowo;;;;;Michalowo;;;;;;;;x
+b_kikot;Kikot;;;;;Kikot;;;;;;;;x
+b_wielun;Wielun;;;;;Wielun;;;;;;;;x
+b_grabow;Grabow;;;;;Grabow;;;;;;;;x
+b_ostrzeszow;Ostrzeszow;;;;;Ostrzeszow;;;;;;;;x
+b_wierzchlas;Wierzchlas;;;;;Wierzchlas;;;;;;;;x
+b_osjakow;Osjakow;;;;;Osjakow;;;;;;;;x
+b_ostrowek;Ostrowek;;;;;Ostrowek;;;;;;;;x
+b_czarnozyly;Czarnozyly;;;;;Czarnozyly;;;;;;;;x
+b_przedborz;Przedborz;;;;;Przedborz;;;;;;;;x
+b_szadek;Szadek;;;;;Szadek;;;;;;;;x
+b_turek;Turek;;;;;Turek;;;;;;;;x
+b_rozprza;Rozprza;;;;;Rozprza;;;;;;;;x
+b_goniadz;Goniadz;;;;;Goniadz;;;;;;;;x
+b_rajgrod;Rajgrod;;;;;Rajgrod;;;;;;;;x
+b_krasnystaw;Krasnystaw;;;;;Krasnystaw;;;;;;;;x
+b_parwa;Parwa;;;;;Parwa;;;;;;;;x
+b_sulecia;Sulecia;;;;;Sulecia;;;;;;;;x
+PROV1587;Bytow;;;;;Bytow;;;;;;;;x
+PROV1588;Neumark;;;;;Neumark;;;;;;;;x
+PROV1589;Gorlitz;;;;;Gorlitz;;;;;;;;x
+b_santok;Santok;;;;;Santok;;;;;;;;x
+b_driesen;Driesen;;;;;Driesen;;;;;;;;x
+b_bernstein;Bernstein;;;;;Bernstein;;;;;;;;x
+b_tempelburg;Tempelburg;;;;;Tempelburg;;;;;;;;x
+b_drawa;Drawa;;;;;Drawa;;;;;;;;x
+b_corlin;Corlin;;;;;Corlin;;;;;;;;x
+b_gerwin;Gerwin;;;;;Gerwin;;;;;;;;x
+b_puck;Puck;;;;;Puck;;;;;;;;x
+b_lebork;Lebork;;;;;Lebork;;;;;;;;x
+b_lupawa;Lupawa;;;;;Lupawa;;;;;;;;x
+b_lebe;Lebe;;;;;Lebe;;;;;;;;x
+b_carbero;Carbero;;;;;Carbero;;;;;;;;x
+b_swolow;Swolow;;;;;Swolow;;;;;;;;x
+b_parchowy;Parchowy;;;;;Parchowy;;;;;;;;x
+b_lebusa;Lebusa;;;;;Lebusa;;;;;;;;x
+b_dobrilugk;Dobrilugk;;;;;Dobrilugk;;;;;;;;x
+b_herrhut;Herrhut;;;;;Herrhut;;;;;;;;x
+b_spremberg;Spremberg;;;;;Spremberg;;;;;;;;x
+b_ylustiaberg;Ylustiaberg;;;;;Ylustiaberg;;;;;;;;x
+b_priebus;Priebus;;;;;Priebus;;;;;;;;x
+b_bischolow;Bischolow;;;;;Bischolow;;;;;;;;x
+b_schivelbein;Schivelbein;;;;;Schivelbein;;;;;;;;x

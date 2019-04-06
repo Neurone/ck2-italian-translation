@@ -1,0 +1,9 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;ITALIAN;;;;;;;;x
+FACTION_LEADERSHIP_CHANGE_SETUP;Faction gets a new Leader;La faction a besoin d'un nouveau chef;Die Fraktion bekommt einen neuen Anführer;;Esta facción necesita un líder nuevo;La Fazione ha un nuovo Comandante;;;;;;;;x
+FACTION_LEADERSHIP_CHANGE_LOG;§Y$CHARNAME$§! has become the new leader of the '$OBJECTIVE$' faction.;§Y$CHARNAME$§! est devenu le nouveau chef de la faction pour '$OBJECTIVE$'.;"§Y$CHARNAME$§! wird zum neuen Anführer der ""$OBJECTIVE$""-Fraktion.";;§Y$CHARNAME$§! se ha convertido en el nuevo líder de la facción '$OBJECTIVE$';§Y$CHARNAME$§! è diventato il nuovo comandante della Fazione '$OBJECTIVE$'.;;;;;;;;x
+BUILDING_PREREQ_FAIL;(§RX§!)Has §G$BUILDING$§!;(§RX§!) §Y$BUILDING$§! est déjà construit;(§RX§!) §G$BUILDING$§! wurde gebaut;;(§RX§!)Necesita §G$BUILDING$§!;(§RX§!)§G$BUILDING$§! è già stato costruito;;;;;;;;x
+IS_NOT_AT_SEA;Is NOT at Sea;N'est pas en mer;Befindet sich NICHT auf See;;NO está en navegando;NON è in Mare;;;;;;;;x
+IS_AT_SEA;Is at Sea;Est en mer;Befindet sich auf See;;Está navegando;È in Mare;;;;;;;;x
+SongsOfTheRusDLC;Songs of the Rus;Musiques de Rus';Songs of the Rus;;Canciones de Rus;Songs of the Rus;;;;;;;;x
+RussianUnitPackDLC;Russian Unit Pack;Pack d'unités russes;Russian Unit Pack;;Pack de Unidades Rusas;Russian Unit Pack;;;;;;;;x
+RussianPortraitsDLC;Russian Portraits;Portraits russes;Russian Portraits;;Retratos Rusos;Russian Portraits;;;;;;;;x
