@@ -33,8 +33,8 @@ module.exports = function (grunt) {
                         dest: 'build/dist/ck2-italian-translation.mod'
                     },
                     {
-                        src: 'src/resources/logo.png',
-                        dest: 'build/dist/ck2-italian-translation/logo.png'
+                        src: 'src/resources/logo.jpg',
+                        dest: 'build/dist/ck2-italian-translation/logo.jpg'
                     }
                 ]
             },
