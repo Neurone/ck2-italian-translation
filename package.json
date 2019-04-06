@@ -1,7 +1,7 @@
 {
     "name": "ck2-italian-translation",
-    "version": "0.1.0",
-    "description": "",
+    "version": "1.0.0",
+    "description": "Mod per Crusader Kings 2. Aggiunge la lingua italiana tra quelle disponibili all'interno del gioco.",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
@@ -11,6 +11,7 @@
         "grunt": "^1.0.4",
         "grunt-contrib-clean": "^2.0.0",
         "grunt-contrib-compress": "^1.4.3",
-        "grunt-contrib-copy": "^1.0.0"
+        "grunt-contrib-copy": "^1.0.0",
+        "jshint": "^2.10.2"
     }
 }

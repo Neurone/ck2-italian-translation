@@ -12,7 +12,7 @@ Trovate le release già pronte del mod nell'apposita sezione [releases](https://
 
 Nel caso non fosse presente la cartella `mod` potete crearla voi normalmente.
 
-## Installazione dal sorgente
+## Creazione mod da codice sorgente
 
 Clonare il repository:
 
@@ -23,34 +23,75 @@ Installare le dipendenze:
     cd ck2-italian-translation
     npm install
 
+### Versione release
+
 Creare il mod:
 
     npx grunt
 
-L'output sarà il seguente:
+L'output sarà simile al seguente:
 
     ~\ck2-italian-translation> npx grunt
-    npx: installed 1 in 3.945s
+    npx: installed 1 in 2.252s
+    Path must be a string. Received undefined
+    ~\ck2-italian-translation\node_modules\grunt\bin\grunt
+    Running "clean:folder" (clean) task
+    >> 91 paths cleaned.
+
+    Running "copy:standalone" (copy) task
+    Created 1 directory, copied 86 files
+
+    Running "compress:main" (compress) task
+    >> Compressed 87 files.
+
+    Running "copy:complete" (copy) task
+    Copied 1 file
+
+    Done.
+
+Verrà creato il file `ck2-italian-translation-x.x.x.zip` all'interno della cartella `build\dist`, dove `x.x.x` sarà la verione corrente del mod (es. `1.0.0`).
+
+Per installare il mod, scompattare il file all'interno della cartella:
+
+    <%USERPROFILE%>\Documents\Paradox Interactive\Crusader Kings II\mod
+
+Nel caso non fosse presente la cartella `mod` potete crearla voi normalmente. La struttura finale dei file sarà la seguente:
+
+    <%USERPROFILE%>\Documents\Paradox Interactive\Crusader Kings II\mod\ck2-italian-translation.zip
+    <%USERPROFILE%>\Documents\Paradox Interactive\Crusader Kings II\mod\ck2-italian-translation.mod
+
+### Versione sviluppo
+
+La versione sviluppo del mod è utile per fare modifiche, test o per effettuare l'upload sullo Steam Workshop. La versione release **non permette** di fare l'upload sullo Steam Workshop.
+
+Creare il mod in versione sviluppo:
+
+    npx grunt dev
+
+L'output sarà simile al seguente:
+
+    ~\ck2-italian-translation> npx grunt dev
+    npx: installed 1 in 2.625s
     Path must be a string. Received undefined
     ~\ck2-italian-translation\node_modules\grunt\bin\grunt
     Running "clean:folder" (clean) task
     >> 0 paths cleaned.
 
-    Running "compress:main" (compress) task
-    >> Compressed 5 files.
+    Running "copy:dev" (copy) task
 
-    Running "copy:main" (copy) task
-    Copied 1 file
 
     Done.
 
-Verrà creata la cartella `build` e all'interno verranno generati i seguenti file:
+Verrà creata la cartella `build\dist` e all'interno troverete un file ed una cartella:
 
-    ck2-italian-translation.zip
+    ck2-italian-translation\*
     ck2-italian-translation.mod
 
-Per installare il mod, copiate questi due file all'interno della cartella:
+Per installare il mod, copiate tutto **il contenuto** della cartella `build\dist` all'interno della cartella:
 
     <%USERPROFILE%>\Documents\Paradox Interactive\Crusader Kings II\mod
 
-Nel caso non fosse presente la cartella `mod` potete crearla voi normalmente.
+Nel caso non fosse presente la cartella `mod` potete crearla voi normalmente. La struttura finale dei file sarà la seguente:
+
+    <%USERPROFILE%>\Documents\Paradox Interactive\Crusader Kings II\mod\ck2-italian-translation\...
+    <%USERPROFILE%>\Documents\Paradox Interactive\Crusader Kings II\mod\ck2-italian-translation.mod
