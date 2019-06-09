@@ -16,8 +16,8 @@ HAS_LOWER_SCORE_THAN;Has Lower Score than ;Possède un score inférieur à;Hat nied
 HAS_HIGHER_SCORE_THAN;Has Score of at least ;Possède un score d'au moins;Hat mindestens einen Punktstand von ;;Tiene una puntuación igual o superior a;Ha un Punteggio di almeno ;;;;;;;;x
 REP_HAS_FEWER_TPS_THAN;Republic has fewer than §Y$NUM$§! Trade Posts;La république possède moins de §Y$NUM$§! comptoirs commerciaux;Republik hat weniger als §Y$NUM$§! Handelsposten;;La república tiene menos de §Y$NUM$§! puestos comerciales;La Repubblica ha meno di §Y$NUM$§! Stazioni Commerciali;;;;;;;;x
 REP_HAS_MORE_TPS_THAN;Republic has at least §Y$NUM$§! Trade Posts;La république possède au moins §Y$NUM$§! comptoirs commerciaux;Republik hat mindestens §Y$NUM$§! Handelsposten;;La república tiene al menos §Y$NUM$§! puestos comerciales;La Repubblica ha almeno §Y$NUM$§! Stazioni Commerciali;;;;;;;;x
-IS_NOT_HISTORICAL;Is NOT historical;N'est pas historique;Ist NICHT historisch;;NO es histórica;NON è storico;;;;;;;;x
-IS_HISTORICAL;Is historical;Est historique;Ist historisch;;Es histórica;È storico;;;;;;;;x
+#IS_NOT_HISTORICAL;Is NOT historical;N'est pas historique;Ist NICHT historisch;;NO es histórica;NON è storico;;;;;;;;x
+#IS_HISTORICAL;Is historical;Est historique;Ist historisch;;Es histórica;È storico;;;;;;;;x
 title_cardinal;Cardinal;Cardinal;Kardinal;;Cardenal;Cardinale;;;;;;;;x
 crushed_revolt;Crushed Revolt;Révolte réprimée;Aufstand niedergeschlagen;;Ha derrotado una rebelión;Rivolta soffocata;;;;;;;;x
 crushed_major_revolt;Crushed Major Revolt;Révolte majeure réprimée;Großen Aufstand niedergeschlagen;;Ha derrotado una rebelión importante;Soffocata una Rivolta Maggiore;;;;;;;;x

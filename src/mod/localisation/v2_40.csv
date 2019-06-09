@@ -165,7 +165,7 @@ SETTLEMENT_DECISION_NOT_ALLOWED;Can NOT take §Y$DECISION$§! decision in §Y$SETTL
 SETTLEMENT_DECISION_POTENTIAL;Eligible to take §Y$DECISION$§! decision in §Y$SETTLEMENT$§!;Est en droit de prendre la décision de §Y$DECISION$§! à §Y$SETTLEMENT$§!;Berechtigt, den Beschluss §Y$DECISION$§! in §Y$SETTLEMENT$§! durchzusetzen;;Capaz tomar §Y$DECISION$§! decisión en §Y$SETTLEMENT$§!;Ha il diritto di prendere la decisione di §Y$DECISION$§! a §Y$SETTLEMENT$§!;;;;;;;;x;
 SETTLEMENT_DECISION_NOT_POTENTIAL;NOT eligible to take §Y$DECISION$§! decision in §Y$SETTLEMENT$§!;N'est pas en droit de prendre la décision de §Y$DECISION$§! à §Y$SETTLEMENT$§!;NICHT berechtigt, den Beschluss §Y$DECISION$§! in §Y$SETTLEMENT$§! durchzusetzen;;Incapaz de tomar §Y$DECISION$§! decisión en §Y$SETTLEMENT$§!;NON ha il diritto di prendere la decisione di §Y$DECISION$§! a §Y$SETTLEMENT$§!;;;;;;;;x;
 PROV1293;Gulf of Kutch;Golfe de Kutch;Golf von Kutch;;Golfo de Kutch;Golfo di Kutch;;;;;;;;x;
-PROV1382;Gulf of Suez;Golfe de Suez;Golf von Suez;;Golfo de Suez;Golfo di Suez;;;;;;;;x;
+#PROV1382;Gulf of Suez;Golfe de Suez;Golf von Suez;;Golfo de Suez;Golfo di Suez;;;;;;;;x;
 PROV1383;Northern Red Sea;Nord de la mer Rouge;Nördliches Rotes Meer;;Norte del Mar Rojo;Mar Rosso Settentrionale;;;;;;;;x;
 PROV1384;Central Red Sea;Centre de la mer Rouge;Zentrales Rotes Meer;;Mar Rojo Central;Mar Rosso Centrale;;;;;;;;x;
 PROV1385;Southern Red Sea;Sud de la mer Rouge;Südliches Rotes Meer;;Sur del Mar Rojo;Mar Rosso Meridionale;;;;;;;;x;

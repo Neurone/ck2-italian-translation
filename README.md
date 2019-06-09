@@ -2,7 +2,13 @@
 
 Questo mod, **compatibile** con l'**Ironmode** e gli **achievement di Steam**, aggiunge la possibilità di selezionare la lingua italiana tra le lingue disponibili all'interno del gioco.
 
-Questa traduzione è ricavata dai testi redatti diligentemente dal team [Battle of Paradox Italia](http://www.bopitalia.org) - **Grande lavoro!** - ed ha come base la versione **3.1.0 (KKAD)** del gioco originale.
+Questa traduzione è ricavata dai testi redatti diligentemente dal team [Battle of Paradox Italia](http://www.bopitalia.org) - **Grande lavoro!** - ed ha come base la versione **3.2.1 (KKAD)** del gioco originale.
+
+## Modifica traduzioni
+
+Per la modifica delle traduzioni il mio consiglio è di usare LibreOffice Calc, come suggerito anche nella [wiki Paradox per la localizzazione](https://ck2.paradoxwikis.com/Localisation). Per l'import usate i seguenti parametri:
+
+![parametri di import](https://raw.githubusercontent.com/neurone/ck2-italian-translation/dev/src/resources/libreoffice_calc_import_csv.jpg)
 
 ## Installazione mod da release
 
